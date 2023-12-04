@@ -1,0 +1,512 @@
+Model Number,Brand,Manufacturer,Equipment category,	Series,CEC approved date,CEC expiry date,Rated Apparent AC Power (kVA),Rated DC Power (kW),Nominal Battery Capacity (kWh),Usable Battery Capacity (kWh),Outdoor Usage
+AKE-5KW-LB2,AKAI Energy,Tempo (Aust) Pty Ltd,Pre-assembled Battery System (BS),AKE-XKW-LB2,2022-12-21,2025-12-21,0.0,3.38,5.12,4.61,Yes
+AKE-5KW-HB,AKAI Energy,Tempo (Aust) Pty Ltd,Pre-assembled Battery System (BS),AKE-XKW-HB,2022-12-09,2025-12-09,0.0,2.5,5.12,4.1,No
+AKE-10KW-HB,AKAI Energy,Tempo (Aust) Pty Ltd,Pre-assembled Battery System (BS),AKE-XKW-HB,2022-12-09,2025-12-09,0.0,2.5,10.24,8.19,No
+SMILE-G3-BAT-10.1P VI,Alpha ESS,Alpha ESS Co Ltd,Pre-assembled Battery System (BS),SMILE-G3 series,2022-08-22,2025-08-22,0.0,5.04,60.6,57.5,Yes
+SMILE-G3-BAT-10.1P V,Alpha ESS,Alpha ESS Co Ltd,Pre-assembled Battery System (BS),SMILE-G3 series,2022-08-22,2025-08-22,0.0,5.04,50.5,47.9,Yes
+SMILE-G3-BAT-10.1P IV,Alpha ESS,Alpha ESS Co Ltd,Pre-assembled Battery System (BS),SMILE-G3 series,2022-08-22,2025-08-22,0.0,5.04,40.4,38.3,Yes
+SMILE-G3-BAT-10.1P III,Alpha ESS,Alpha ESS Co Ltd,Pre-assembled Battery System (BS),SMILE-G3 series,2022-08-22,2025-08-22,0.0,5.04,30.3,28.7,Yes
+SMILE-G3-BAT-10.1P II,Alpha ESS,Alpha ESS Co Ltd,Pre-assembled Battery System (BS),SMILE-G3 series,2022-08-22,2025-08-22,0.0,5.04,20.2,19.2,Yes
+SMILE-G3-BAT-10.1P,Alpha ESS,Alpha ESS Co Ltd,Pre-assembled Battery System (BS),SMILE-G3 series,2022-08-22,2025-08-22,0.0,5.04,10.1,9.6,Yes
+SMILE-BAT-8.2 PH VI,Alpha ESS,Alpha ESS Co Ltd,Pre-assembled Battery System (BS),SMILE,2021-09-30,2024-09-30,0.0,59.0,49.2,46.7,Yes
+SMILE-BAT-8.2 PH V,Alpha ESS,Alpha ESS Co Ltd,Pre-assembled Battery System (BS),SMILE,2021-09-30,2024-09-30,0.0,49.2,41.0,39.0,Yes
+SMILE-BAT-8.2 PH IV,Alpha ESS,Alpha ESS Co Ltd,Pre-assembled Battery System (BS),SMILE,2021-09-30,2024-09-30,0.0,39.3,32.8,31.2,Yes
+SMILE-BAT-8.2 PH III,Alpha ESS,Alpha ESS Co Ltd,Pre-assembled Battery System (BS),SMILE,2021-09-30,2024-09-30,0.0,24.5,24.6,23.4,Yes
+SMILE-BAT-8.2 PH II,Alpha ESS,Alpha ESS Co Ltd,Pre-assembled Battery System (BS),SMILE,2021-09-30,2024-09-30,0.0,19.7,16.4,15.6,Yes
+SMILE-BAT-8.2 PH,Alpha ESS,Alpha ESS Co Ltd,Pre-assembled Battery System (BS),SMILE,2021-09-30,2024-09-30,0.0,9.8,8.2,7.8,Yes
+SMILE-BAT-5P,Alpha ESS,Alpha ESS Co Ltd,Pre-assembled Battery System (BS),SMILE,2022-12-19,2025-12-19,0.0,2.52,5.04,4.79,Yes
+SMILE-BAT-10.3P,Alpha ESS,Alpha ESS Co Ltd,Pre-assembled Battery System (BS),SMILE Series,2022-08-23,2025-08-23,0.0,5.12,10.3,9.3,Yes
+SMILE-BAT-10.1P,Alpha ESS,Alpha ESS Co Ltd,Pre-assembled Battery System (BS),SMILE Series,2022-07-10,2025-07-10,0.0,4.8,10.08,9.07,Yes
+SMILE5-BAT,Alpha.ESS,Alpha ESS Co Ltd,Pre-assembled Battery System (BS),SMILE,2022-01-13,2025-01-13,0.0,5.0,5.7,5.5,Yes
+M4856-P,Alpha.ESS,Alpha ESS Co Ltd,Pre-assembled Battery System (BS),Residential Series,2022-03-03,2025-03-03,0.0,2.87,2.9,2.8,Yes
+SMILE-B3-PLUS VI (AS4777-2 2020),Alpha.ESS,Alpha ESS Co Ltd,Pre-assembled Integrated Battery Energy Storage System (BESS),SMILE-B3-PLUS,2022-01-22,2025-01-25,3.0,0.0,30.24,28.73,Yes
+SMILE-B3-PLUS V (AS4777-2 2020),Alpha.ESS,Alpha ESS Co Ltd,Pre-assembled Integrated Battery Energy Storage System (BESS),SMILE-B3-PLUS,2022-01-22,2025-01-25,3.0,0.0,25.2,23.94,Yes
+SMILE-B3-PLUS IV (AS4777-2 2020),Alpha.ESS,Alpha ESS Co Ltd,Pre-assembled Integrated Battery Energy Storage System (BESS),SMILE-B3-PLUS,2022-01-22,2025-01-25,3.0,0.0,20.16,19.15,Yes
+SMILE-B3-PLUS III (AS4777-2 2020),Alpha.ESS,Alpha ESS Co Ltd,Pre-assembled Integrated Battery Energy Storage System (BESS),SMILE-B3-PLUS,2022-01-22,2025-01-25,3.0,0.0,15.12,14.36,Yes
+SMILE-B3-PLUS II (AS4777-2 2020),Alpha.ESS,Alpha ESS Co Ltd,Pre-assembled Integrated Battery Energy Storage System (BESS),SMILE-B3-PLUS,2022-01-22,2025-01-25,3.0,0.0,10.08,9.58,Yes
+SMILE-B3-PLUS (AS4777-2 2020),Alpha.ESS,Alpha ESS Co Ltd,Pre-assembled Integrated Battery Energy Storage System (BESS),SMILE-B3-PLUS,2022-01-22,2025-01-25,3.0,0.0,5.04,4.79,Yes
+SMILE-BAT-13.3P,AlphaESS,Alpha ESS Co Ltd,Pre-assembled Battery System (BS),SMILE-BAT-13.3P,2023-08-24,2026-08-24,0.0,5.0,13.34,13.4,Yes
+AS-5KW-LB2,Altius,Tempo (Aust) Pty Ltd,Pre-assembled Battery System (BS),AS-XKW-LB2,2022-12-21,2025-12-21,0.0,3.38,5.12,4.61,Yes
+GTX5000-PRO,AMASSTORE,SofarSolar Ausco Pty Ltd,Pre-assembled Battery System (BS),GTX5000-PRO,2022-08-26,2025-08-26,0.0,5.0,5.12,4.6,No
+HS2-6K-S2-4 4G (AS4777-2 2020),AMBRION,Solar Bos Pty Ltd,Pre-assembled Integrated Battery Energy Storage System (BESS),HS2,2023-10-30,2026-10-30,6.0,0.0,20.0,18.0,Yes
+HS2-6K-S2-3 4G (AS4777-2 2020),AMBRION,Solar Bos Pty Ltd,Pre-assembled Integrated Battery Energy Storage System (BESS),HS2,2023-10-30,2026-10-30,6.0,0.0,15.0,13.5,Yes
+HS2-6K-S2-2 4G (AS4777-2 2020),AMBRION,Solar Bos Pty Ltd,Pre-assembled Integrated Battery Energy Storage System (BESS),HS2,2023-10-30,2026-10-30,6.0,0.0,10.0,9.0,Yes
+HS2-6K-S2-1 4G (AS4777-2 2020),AMBRION,Solar Bos Pty Ltd,Pre-assembled Integrated Battery Energy Storage System (BESS),HS2,2023-10-30,2026-10-30,6.0,0.0,5.0,4.5,Yes
+HS2-5K-S2-4 4G (AS4777-2 2020),AMBRION,Solar Bos Pty Ltd,Pre-assembled Integrated Battery Energy Storage System (BESS),HS2,2023-10-30,2026-10-30,5.0,0.0,20.0,18.0,Yes
+HS2-5K-S2-3 4G (AS4777-2 2020),AMBRION,Solar Bos Pty Ltd,Pre-assembled Integrated Battery Energy Storage System (BESS),HS2,2023-10-30,2026-10-30,5.0,0.0,15.0,13.5,Yes
+HS2-5K-S2-2 4G (AS4777-2 2020),AMBRION,Solar Bos Pty Ltd,Pre-assembled Integrated Battery Energy Storage System (BESS),HS2,2023-10-30,2026-10-30,5.0,0.0,10.0,9.0,Yes
+HS2-5K-S2-1 4G (AS4777-2 2020),AMBRION,Solar Bos Pty Ltd,Pre-assembled Integrated Battery Energy Storage System (BESS),HS2,2023-10-30,2026-10-30,5.0,0.0,5.0,4.5,Yes
+HS2-3K-S2-2 4G (AS4777-2 2020),AMBRION,Solar Bos Pty Ltd,Pre-assembled Integrated Battery Energy Storage System (BESS),HS2,2023-10-30,2026-10-30,3.0,0.0,10.0,9.0,Yes
+HS2-3K-S2-1 4G (AS4777-2 2020),AMBRION,Solar Bos Pty Ltd,Pre-assembled Integrated Battery Energy Storage System (BESS),HS2,2023-10-30,2026-10-30,3.0,0.0,5.0,4.5,Yes
+Genius BA5,AVOL,Cornick Pty Ltd,Pre-assembled Battery System (BS),Genius,2023-07-25,2026-07-25,0.0,4.1,5.12,4.6,Yes
+Genius BA20,AVOL,Cornick Pty Ltd,Pre-assembled Battery System (BS),Genius,2023-07-25,2026-07-25,0.0,4.1,20.48,18.4,Yes
+Genius BA15,AVOL,Cornick Pty Ltd,Pre-assembled Battery System (BS),Genius,2023-07-25,2026-07-25,0.0,4.1,15.36,13.8,Yes
+Genius BA10,AVOL,Cornick Pty Ltd,Pre-assembled Battery System (BS),Genius,2023-07-25,2026-07-25,0.0,4.1,10.24,9.2,Yes
+B-LFP48-200PW,BSLBATT,BSL New Energy Technology Co Ltd,Pre-assembled Battery System (BS),,2023-08-07,2026-08-07,0.0,10.24,10.24,10.24,No
+B-LFP48-100E,BSLBATT,BSL New Energy Technology Co Ltd,Pre-assembled Battery System (BS),,2023-08-07,2026-08-07,0.0,5.12,5.12,5.12,No
+LVS Lite 8.0,BYD,Shenzhen BYD Electronics Co Ltd,Pre-assembled Battery System (BS),Battery-Box Premium,2021-08-16,2024-08-16,0.0,5.12,8.0,8.0,Yes
+LVS Lite 4.0,BYD,Shenzhen BYD Electronics Co Ltd,Pre-assembled Battery System (BS),Battery-Box Premium,2021-08-16,2024-08-16,0.0,2.56,4.0,4.0,Yes
+LVS Lite 16.0,BYD,Shenzhen BYD Electronics Co Ltd,Pre-assembled Battery System (BS),Battery-Box Premium,2021-08-16,2024-08-16,0.0,10.24,16.0,16.0,Yes
+LVS Lite 12.0,BYD,Shenzhen BYD Electronics Co Ltd,Pre-assembled Battery System (BS),Battery-Box Premium,2021-08-16,2024-08-16,0.0,7.68,12.0,12.0,Yes
+LV Flex,BYD,Shenzhen BYD Electronics Co Ltd,Pre-assembled Battery System (BS),Battery-Box,2021-09-09,2024-09-09,0.0,3.6,5.0,5.0,No
+HVS 7.7,BYD,Shenzhen BYD Electronics Co Ltd,Pre-assembled Battery System (BS),VS,2023-10-19,2026-10-19,0.0,7.68,7.68,7.68,Yes
+HVS 5.1,BYD,Shenzhen BYD Electronics Co Ltd,Pre-assembled Battery System (BS),VS,2023-10-19,2026-10-19,0.0,5.12,5.12,5.12,Yes
+HVS 12.8,BYD,Shenzhen BYD Electronics Co Ltd,Pre-assembled Battery System (BS),VS,2023-10-19,2026-10-19,0.0,12.8,12.8,12.8,Yes
+HVS 10.2,BYD,Shenzhen BYD Electronics Co Ltd,Pre-assembled Battery System (BS),VS,2023-10-19,2026-10-19,0.0,10.24,10.24,10.24,Yes
+HVM 8.3,BYD,Shenzhen BYD Electronics Co Ltd,Pre-assembled Battery System (BS),VM,2023-06-08,2026-06-08,0.0,7.68,8.28,8.28,Yes
+HVM 22.1,BYD,Shenzhen BYD Electronics Co Ltd,Pre-assembled Battery System (BS),VM,2023-06-08,2026-06-08,0.0,20.48,22.08,22.08,Yes
+HVM 19.3,BYD,Shenzhen BYD Electronics Co Ltd,Pre-assembled Battery System (BS),VM,2023-06-08,2026-06-08,0.0,17.92,19.32,19.32,Yes
+HVM 16.6,BYD,Shenzhen BYD Electronics Co Ltd,Pre-assembled Battery System (BS),VM,2023-06-08,2026-06-08,0.0,15.36,16.56,16.56,Yes
+HVM 13.8,BYD,Shenzhen BYD Electronics Co Ltd,Pre-assembled Battery System (BS),VM,2023-06-08,2026-06-08,0.0,12.8,13.8,13.8,Yes
+HVM 11.0,BYD,Shenzhen BYD Electronics Co Ltd,Pre-assembled Battery System (BS),VM,2023-06-08,2026-06-08,0.0,10.24,11.04,11.04,Yes
+Battery-Box Premium LVL15.4,BYD,Shenzhen BYD Electronics Co Ltd,Pre-assembled Battery System (BS),LVL,2023-04-20,2026-04-20,0.0,13.5,15.36,15.36,No
+CHCI-6.0K-5.12KWH (AS4777-2 2020),CEEG,CEEG (JIANGSU) TECH CO LTD,Pre-assembled Integrated Battery Energy Storage System (BESS),CHCI,2023-07-17,2026-07-17,6.0,0.0,5.12,4.61,Yes
+CHCI-6.0K-10.24KWH (AS4777-2 2020),CEEG,CEEG (JIANGSU) TECH CO LTD,Pre-assembled Integrated Battery Energy Storage System (BESS),CHCI,2023-07-17,2026-07-17,6.0,0.0,10.24,9.22,Yes
+CHCI-5.0K-5.12KWH (AS4777-2 2020),CEEG,CEEG (JIANGSU) TECH CO LTD,Pre-assembled Integrated Battery Energy Storage System (BESS),CHCI,2023-07-17,2026-07-17,5.0,0.0,5.12,4.61,Yes
+CHCI-5.0K-10.24KWH (AS4777-2 2020),CEEG,CEEG (JIANGSU) TECH CO LTD,Pre-assembled Integrated Battery Energy Storage System (BESS),CHCI,2023-07-17,2026-07-17,5.0,0.0,10.24,9.22,Yes
+CHCI-3.6K-5.12KWH (AS4777-2 2020),CEEG,CEEG (JIANGSU) TECH CO LTD,Pre-assembled Integrated Battery Energy Storage System (BESS),CHCI,2023-07-17,2026-07-17,3.6,0.0,5.12,4.61,Yes
+CHCI-3.6K-10.24KWH (AS4777-2 2020),CEEG,CEEG (JIANGSU) TECH CO LTD,Pre-assembled Integrated Battery Energy Storage System (BESS),CHCI,2023-07-17,2026-07-17,3.6,0.0,10.24,9.22,Yes
+BX6.3_AC100 (AS4777-2 2020),DELTA,Delta Electronics Inc,Pre-assembled Integrated Battery Energy Storage System (BESS),BX6.3_AC100,2022-03-02,2025-03-02,3.0,0.0,6.3,6.17,Yes
+42-48-6650,Discover,Discover Energy Corp,Pre-assembled Battery System (BS),AES,2023-02-24,2026-02-24,0.0,6.66,7.39,6.65,No
+DEB3-5.8,DURACELL,SE GROUP LTD,Pre-assembled Battery System (BS),DURACELL ENERGY BANK 3,2022-07-18,2025-07-18,0.0,2.8,5.8,5.22,Yes
+DEB3-17.3P,DURACELL,SE GROUP LTD,Pre-assembled Battery System (BS),DURACELL ENERGY BANK 3,2022-07-18,2025-07-18,0.0,7.5,17.3,15.57,Yes
+DEB3-11.5P,DURACELL,SE GROUP LTD,Pre-assembled Battery System (BS),DURACELL ENERGY BANK 3,2022-07-18,2025-07-18,0.0,5.7,11.6,10.44,Yes
+T7,Dyness,Daqin New Energy Tech (Taizhou) Co Ltd,Pre-assembled Battery System (BS),Tower,2021-04-06,2024-04-06,0.0,4.26,7.1,7.1,Yes
+T21,Dyness,Daqin New Energy Tech (Taizhou) Co Ltd,Pre-assembled Battery System (BS),Tower,2021-04-06,2024-04-06,0.0,12.78,21.31,21.31,No
+T17,Dyness,Daqin New Energy Tech (Taizhou) Co Ltd,Pre-assembled Battery System (BS),Tower,2021-04-06,2024-04-06,0.0,10.65,17.76,17.76,No
+T14,Dyness,Daqin New Energy Tech (Taizhou) Co Ltd,Pre-assembled Battery System (BS),Tower,2021-04-06,2024-04-06,0.0,8.52,14.2,14.2,No
+T10,Dyness,Daqin New Energy Tech (Taizhou) Co Ltd,Pre-assembled Battery System (BS),Tower,2021-04-06,2024-04-06,0.0,6.39,10.66,10.66,No
+PowerDepot H5B,DYNESS,Daqin New Energy Tech (Taizhou) Co Ltd,Pre-assembled Battery System (BS),PowerDepot,2022-10-31,2025-10-31,0.0,5.12,5.12,4.61,Yes
+Powercube-6B3,DYNESS,Daqin New Energy Tech (Taizhou) Co Ltd,Pre-assembled Battery System (BS),Powercube,2022-07-06,2025-07-06,0.0,9.0,21.6,19.44,Yes
+Powercube-5B3,DYNESS,Daqin New Energy Tech (Taizhou) Co Ltd,Pre-assembled Battery System (BS),Powercube,2022-07-06,2025-07-06,0.0,9.0,18.0,16.2,Yes
+Powercube-4B3,DYNESS,Daqin New Energy Tech (Taizhou) Co Ltd,Pre-assembled Battery System (BS),Powercube,2022-07-06,2025-07-06,0.0,7.2,14.4,12.78,Yes
+Powercube-3B3,DYNESS,Daqin New Energy Tech (Taizhou) Co Ltd,Pre-assembled Battery System (BS),Powercube,2022-07-06,2025-07-06,0.0,5.4,10.8,9.72,Yes
+Powercube-2B3,DYNESS,Daqin New Energy Tech (Taizhou) Co Ltd,Pre-assembled Battery System (BS),Powercube,2022-07-06,2025-07-06,0.0,3.6,7.2,6.48,Yes
+Powerbox Pro,DYNESS,Daqin New Energy Tech (Taizhou) Co Ltd,Pre-assembled Battery System (BS),Powerbox,2022-10-31,2025-10-31,0.0,5.12,10.24,9.22,Yes
+Powerbox F-7.5,DYNESS,Daqin New Energy Tech (Taizhou) Co Ltd,Pre-assembled Battery System (BS),Powerbox F,2022-07-06,2025-07-06,0.0,4.8,7.2,6.5,Yes
+Powerbox F-5.0,DYNESS,Daqin New Energy Tech (Taizhou) Co Ltd,Pre-assembled Battery System (BS),Powerbox F,2022-07-06,2025-07-06,0.0,4.8,4.8,4.3,Yes
+Powerbox F-2.5,DYNESS,Daqin New Energy Tech (Taizhou) Co Ltd,Pre-assembled Battery System (BS),Powerbox F,2022-07-06,2025-07-06,0.0,2.4,2.4,2.2,Yes
+Powerbox F-10.0,DYNESS,Daqin New Energy Tech (Taizhou) Co Ltd,Pre-assembled Battery System (BS),Powerbox F,2022-07-06,2025-07-06,0.0,4.8,9.6,8.6,Yes
+B4850,DYNESS,Daqin New Energy Tech (Taizhou) Co Ltd,Pre-assembled Battery System (BS),B4850,2022-07-06,2025-07-06,0.0,1.2,2.4,2.2,No
+B3,DYNESS,Daqin New Energy Tech (Taizhou) Co Ltd,Pre-assembled Battery System (BS),B3,2022-07-06,2025-07-06,0.0,1.8,3.6,3.24,No
+WH-BX8.2,ECACTUS,Jiangsu Weiheng Intelligent Technology Co Ltd,Pre-assembled Battery System (BS),-,2021-08-02,2024-08-02,0.0,4.1,7.38,7.38,Yes
+WH-BX6.2,ECACTUS,Jiangsu Weiheng Intelligent Technology Co Ltd,Pre-assembled Battery System (BS),-,2021-08-02,2024-08-02,0.0,3.07,6.15,5.54,Yes
+WH-BX4.1,ECACTUS,Jiangsu Weiheng Intelligent Technology Co Ltd,Pre-assembled Battery System (BS),-,2021-08-02,2024-08-02,0.0,2.05,4.1,3.69,Yes
+WH-BX12.3,ECACTUS,Jiangsu Weiheng Intelligent Technology Co Ltd,Pre-assembled Battery System (BS),-,2021-08-02,2024-08-02,0.0,5.12,10.25,9.23,Yes
+WH-BX10.3,ECACTUS,Jiangsu Weiheng Intelligent Technology Co Ltd,Pre-assembled Battery System (BS),-,2021-08-02,2024-08-02,0.0,5.12,10.25,9.23,Yes
+WH-SPHA6.0H-5.12kWh (AS4777-2 2020),ECACTUS,Jiangsu Weiheng Intelligent Technology Co Ltd,Pre-assembled Integrated Battery Energy Storage System (BESS),Agave,2022-04-11,2025-04-11,6.0,0.0,5.12,4.61,Yes
+WH-SPHA6.0H-10.24kWh (AS4777-2 2020),ECACTUS,Jiangsu Weiheng Intelligent Technology Co Ltd,Pre-assembled Integrated Battery Energy Storage System (BESS),Agave,2022-04-11,2025-04-11,6.0,0.0,10.24,9.22,Yes
+WH-SPHA5.0H-5.12kWh (AS4777-2 2020),ECACTUS,Jiangsu Weiheng Intelligent Technology Co Ltd,Pre-assembled Integrated Battery Energy Storage System (BESS),Agave,2022-04-11,2025-04-11,5.0,0.0,5.12,4.61,Yes
+WH-SPHA5.0H-10.24kWh (AS4777-2 2020),ECACTUS,Jiangsu Weiheng Intelligent Technology Co Ltd,Pre-assembled Integrated Battery Energy Storage System (BESS),Agave,2022-04-11,2025-04-11,5.0,0.0,10.24,9.22,Yes
+WH-SPHA3.6H-5.12kWh (AS4777-2 2020),ECACTUS,Jiangsu Weiheng Intelligent Technology Co Ltd,Pre-assembled Integrated Battery Energy Storage System (BESS),Agave,2022-04-11,2025-04-11,3.6,0.0,5.12,4.61,Yes
+WH-SPHA3.6H-10.24kWh (AS4777-2 2020),ECACTUS,Jiangsu Weiheng Intelligent Technology Co Ltd,Pre-assembled Integrated Battery Energy Storage System (BESS),Agave,2022-04-11,2025-04-11,3.6,0.0,10.24,9.22,Yes
+Elektrobank 14 (AS4777-2 2020),Empower,Empower Energy Pty Ltd,Pre-assembled Integrated Battery Energy Storage System (BESS),,2022-03-04,2025-03-04,5.0,0.0,15.4,13.9,Yes
+HP-6M/3S (AS4777-2 2020),Energizer,Enertek Holdings Pty Ltd,Pre-assembled Integrated Battery Energy Storage System (BESS),Homepower,2022-05-02,2025-05-02,3.6,0.0,24.56,23.2,Yes
+HP-6M/2S (AS4777-2 2020),Energizer,Enertek Holdings Pty Ltd,Pre-assembled Integrated Battery Energy Storage System (BESS),Homepower,2022-05-02,2025-05-02,3.6,0.0,18.42,17.4,Yes
+HP-6M/1S (AS4777-2 2020),Energizer,Enertek Holdings Pty Ltd,Pre-assembled Integrated Battery Energy Storage System (BESS),Homepower,2022-05-02,2025-05-02,3.6,0.0,12.28,11.6,Yes
+HP-6M (AS4777-2 2020),Energizer,Enertek Holdings Pty Ltd,Pre-assembled Integrated Battery Energy Storage System (BESS),Homepower,2022-05-02,2025-05-02,3.6,0.0,6.14,5.8,Yes
+B05-T02-ROW00-1-2 (AS4777-2 2020),ENPHASE,Enphase Energy Inc,Pre-assembled Integrated Battery Energy Storage System (BESS),IQ BATTERY 5P,2023-05-02,2026-05-02,3.84,0.0,5.0,4.96,Yes
+EVANTRA-6.0HS-5.12KWH (AS4777-2 2020),EVANTRA,Evantra IP Pty Ltd,Pre-assembled Integrated Battery Energy Storage System (BESS),,2023-09-26,2026-09-26,6.0,0.0,5.12,4.61,Yes
+EVANTRA-6.0HS-10.24KWH (AS4777-2 2020),EVANTRA,Evantra IP Pty Ltd,Pre-assembled Integrated Battery Energy Storage System (BESS),,2023-09-26,2026-09-26,6.0,0.0,10.24,9.22,Yes
+EVANTRA-5.0HS-5.12KWH (AS4777-2 2020),EVANTRA,Evantra IP Pty Ltd,Pre-assembled Integrated Battery Energy Storage System (BESS),,2023-09-26,2026-09-26,5.0,0.0,5.12,4.61,Yes
+EVANTRA-5.0HS-10.24KWH (AS4777-2 2020),EVANTRA,Evantra IP Pty Ltd,Pre-assembled Integrated Battery Energy Storage System (BESS),,2023-09-26,2026-09-26,5.0,0.0,10.24,9.22,Yes
+EVANTRA-3.6HS-5.12KWH (AS4777-2 2020),EVANTRA,Evantra IP Pty Ltd,Pre-assembled Integrated Battery Energy Storage System (BESS),,2023-09-26,2026-09-26,3.6,0.0,5.12,4.61,Yes
+EVANTRA-3.6HS-10.24KWH (AS4777-2 2020),EVANTRA,Evantra IP Pty Ltd,Pre-assembled Integrated Battery Energy Storage System (BESS),,2023-09-26,2026-09-26,3.6,0.0,10.24,9.22,Yes
+AS1-3KS-5.1 (AS4777-2 2020),EVEREADY,Solar Bos Pty Ltd,Pre-assembled Integrated Battery Energy Storage System (BESS),Energy Vault,2022-02-08,2025-02-08,3.0,0.0,5.12,4.61,Yes
+AS1-3KS-20.4 (AS4777-2 2020),EVEREADY,Solar Bos Pty Ltd,Pre-assembled Integrated Battery Energy Storage System (BESS),Energy Vault,2022-02-08,2025-02-08,3.0,0.0,20.48,18.43,Yes
+AS1-3KS-15.3 (AS4777-2 2020),EVEREADY,Solar Bos Pty Ltd,Pre-assembled Integrated Battery Energy Storage System (BESS),Energy Vault,2022-02-08,2025-02-08,3.0,0.0,15.36,13.82,Yes
+AS1-3KS-10.2 (AS4777-2 2020),EVEREADY,Solar Bos Pty Ltd,Pre-assembled Integrated Battery Energy Storage System (BESS),Energy Vault,2022-02-08,2025-02-08,3.0,0.0,10.24,9.22,Yes
+B1-5.1-48,EVERREADY,Solar Bos Pty Ltd,Pre-assembled Battery System (BS),Energy Vault,2022-02-08,2025-02-08,0.0,3.0,5.12,4.6,No
+EVOLVE LFP AU - 42kWh (AS4777-2 2020),EVOLVE,Eguana Technologies Inc,Pre-assembled Integrated Battery Energy Storage System (BESS),EVOLVE,2023-01-13,2026-01-13,5.0,0.0,14.0,13.3,No
+EVOLVE LFP AU - 28kWh (AS4777-2 2020),EVOLVE,Eguana Technologies Inc,Pre-assembled Integrated Battery Energy Storage System (BESS),EVOLVE,2023-01-13,2026-01-13,5.0,0.0,14.0,13.3,No
+EVOLVE LFP AU - 28kWh (AS4777-2 2020),EVOLVE,Eguana Technologies Inc,Pre-assembled Integrated Battery Energy Storage System (BESS),EVOLVE,2023-01-13,2026-01-13,5.0,0.0,14.0,13.3,No
+EVOLVE LFP AU - 14kWh (AS4777-2 2020),EVOLVE,Eguana Technologies Inc,Pre-assembled Integrated Battery Energy Storage System (BESS),EVOLVE,2023-01-13,2026-01-13,5.0,0.0,14.0,13.3,No
+EVOLVE ESS AU â€“ 39kWh (AS4777-2 2020),EVOLVE,Eguana Technologies Inc,Pre-assembled Integrated Battery Energy Storage System (BESS),EVOLVE ESS AU,2022-11-21,2025-11-21,5.0,0.0,13.0,12.35,No
+EVOLVE ESS AU â€“ 26kWh (AS4777-2 2020),EVOLVE,Eguana Technologies Inc,Pre-assembled Integrated Battery Energy Storage System (BESS),EVOLVE ESS AU,2022-11-21,2025-11-21,5.0,0.0,13.0,12.35,No
+EVOLVE ESS AU â€“ 13kWh (AS4777-2 2020),EVOLVE,Eguana Technologies Inc,Pre-assembled Integrated Battery Energy Storage System (BESS),EVOLVE ESS AU,2022-11-21,2025-11-21,5.0,0.0,13.0,12.35,No
+LIBS048200-G04,Exide,Exide Australia Pty Ltd,Pre-assembled Battery System (BS),Sonnenschein Module Pro,2022-09-05,2025-09-05,0.0,2.06,9.6,7.68,Yes
+LIBS048150-G03,Exide,Exide Australia Pty Ltd,Pre-assembled Battery System (BS),Sonnenschein Module Pro,2022-09-05,2025-09-05,0.0,1.55,7.2,5.76,Yes
+LIBM048050-G01,Exide,Exide Australia Pty Ltd,Pre-assembled Battery System (BS),Sonnenschein Module Pro,2022-09-05,2025-09-05,0.0,1.03,2.4,1.92,No
+SSIF2P15S48100C,fesing,FnS Power Technology Inc,Pre-assembled Battery System (BS),SmartPower Series,2021-07-23,2024-07-23,0.0,2.4,4.8,3.84,No
+AIO-H1-6.0-HVS7.8 (AS4777-2 2020),FOX ESS,FOXESS Co Ltd,Pre-assembled Integrated Battery Energy Storage System (BESS),AIO-H1,2022-12-21,2025-12-21,6.6,0.0,7.8,7.02,Yes
+AIO-H1-6.0-HVS5.2 (AS4777-2 2020),FOX ESS,FOXESS Co Ltd,Pre-assembled Integrated Battery Energy Storage System (BESS),AIO-H1,2022-12-21,2025-12-21,6.6,0.0,5.2,4.68,Yes
+AIO-H1-6.0-HVS10.4 (AS4777-2 2020),FOX ESS,FOXESS Co Ltd,Pre-assembled Integrated Battery Energy Storage System (BESS),AIO-H1,2022-12-21,2025-12-21,6.6,0.0,10.4,9.36,Yes
+AIO-H1-5.0-HVS7.8 (AS4777-2 2020),FOX ESS,FOXESS Co Ltd,Pre-assembled Integrated Battery Energy Storage System (BESS),AIO-H1,2022-12-21,2025-12-21,2.0,0.0,7.8,7.02,Yes
+AIO-H1-5.0-HVS5.2 (AS4777-2 2020),FOX ESS,FOXESS Co Ltd,Pre-assembled Integrated Battery Energy Storage System (BESS),AIO-H1,2022-12-21,2025-12-21,5.0,0.0,5.2,4.68,Yes
+AIO-H1-5.0-HVS10.4 (AS4777-2 2020),FOX ESS,FOXESS Co Ltd,Pre-assembled Integrated Battery Energy Storage System (BESS),AIO-H1,2022-12-21,2025-12-21,5.0,0.0,10.4,9.36,Yes
+AIO-AC1-6.0-HVS7.8 (AS4777-2 2020),FOX ESS,FOXESS Co Ltd,Pre-assembled Integrated Battery Energy Storage System (BESS),AIO-AC1,2022-12-21,2025-12-21,6.0,0.0,7.8,7.02,Yes
+AIO-AC1-6.0-HVS5.2 (AS4777-2 2020),FOX ESS,FOXESS Co Ltd,Pre-assembled Integrated Battery Energy Storage System (BESS),AIO-AC1,2022-12-21,2025-12-21,4.0,0.0,5.2,4.68,Yes
+AIO-AC1-6.0-HVS10.4 (AS4777-2 2020),FOX ESS,FOXESS Co Ltd,Pre-assembled Integrated Battery Energy Storage System (BESS),AIO-AC1,2022-12-21,2025-12-21,6.0,0.0,10.4,9.36,Yes
+AIO-AC1-5.0-HVS7.8 (AS4777-2 2020),FOX ESS,FOXESS Co Ltd,Pre-assembled Integrated Battery Energy Storage System (BESS),AIO-AC1,2022-12-21,2025-12-21,5.0,0.0,7.8,7.02,Yes
+AIO-AC1-5.0-HVS5.2 (AS4777-2 2020),FOX ESS,FOXESS Co Ltd,Pre-assembled Integrated Battery Energy Storage System (BESS),AIO-AC1,2022-12-21,2025-12-21,4.0,0.0,5.2,4.68,Yes
+AIO-AC1-5.0-HVS10.4 (AS4777-2 2020),FOX ESS,FOXESS Co Ltd,Pre-assembled Integrated Battery Energy Storage System (BESS),AIO-AC1,2022-12-21,2025-12-21,5.0,0.0,10.4,9.36,Yes
+aPower X-01-AU (AS4777-2 2020),FRANKLINWH,FranklinWH Technologies Co Ltd,Pre-assembled Integrated Battery Energy Storage System (BESS),aPower X,2023-11-15,2026-11-15,5.0,0.0,14.34,13.6,Yes
+GC48V-060LFP-2RU-M,genZ,genZ Energy Pty Ltd,Pre-assembled Battery System (BS),III,2021-09-17,2024-09-17,0.0,1.47,3.0,2.36,No
+GC48V-060LFP-2RU,GenZ,genZ Energy Pty Ltd,Pre-assembled Battery System (BS),Series III,2023-02-28,2025-03-02,0.0,2.95,2.0,1.6,No
+GC48V-040LFP-2RU-M,genZ,genZ Energy Pty Ltd,Pre-assembled Battery System (BS),III,2021-09-17,2024-09-17,0.0,0.98,2.0,1.57,No
+GC48V-040LFP-2RU,GenZ,genZ Energy Pty Ltd,Pre-assembled Battery System (BS),Series III,2023-02-28,2025-02-02,0.0,1.97,3.0,2.4,No
+LX U5.4-L,GOODWE,GoodWe Technologies Co Ltd,Pre-assembled Battery System (BS),Lynx Home U,2023-02-23,2026-02-23,0.0,2.56,5.4,4.8,Yes
+LX U5.4-20,Goodwe,GoodWe Technologies Co Ltd,Pre-assembled Battery System (BS),LX,2023-02-02,2026-02-02,0.0,2.56,5.4,5.4,Yes
+LX F9.8-H,Goodwe,GoodWe Technologies Co Ltd,Pre-assembled Battery System (BS),Lynx Home F Series,2022-11-25,2025-11-25,0.0,7.68,9.83,9.83,Yes
+LX F9.6-H-20,GOODWE,GoodWe Technologies Co Ltd,Pre-assembled Battery System (BS),Lynx F G2,2023-09-15,2026-09-15,0.0,6.72,9.6,9.6,Yes
+LX F6.6-H,Goodwe,GoodWe Technologies Co Ltd,Pre-assembled Battery System (BS),Lynx Home F Series,2022-11-25,2025-11-25,0.0,5.12,6.55,6.55,Yes
+LX F28.8-H-20,GOODWE,GoodWe Technologies Co Ltd,Pre-assembled Battery System (BS),Lynx F G2,2023-09-15,2026-09-15,0.0,20.16,28.8,28.8,Yes
+LX F25.6-H-20,GOODWE,GoodWe Technologies Co Ltd,Pre-assembled Battery System (BS),Lynx F G2,2023-09-15,2026-09-15,0.0,17.92,25.6,25.6,Yes
+LX F22.4-H-20,GOODWE,GoodWe Technologies Co Ltd,Pre-assembled Battery System (BS),Lynx F G2,2023-09-15,2026-09-15,0.0,15.68,22.4,22.4,Yes
+LX F19.2-H-20,GOODWE,GoodWe Technologies Co Ltd,Pre-assembled Battery System (BS),Lynx F G2,2023-09-15,2026-09-15,0.0,13.44,19.2,19.2,Yes
+LX F16.4-H,Goodwe,GoodWe Technologies Co Ltd,Pre-assembled Battery System (BS),Lynx Home F Series,2022-11-25,2025-11-25,0.0,12.8,16.38,16.38,Yes
+LX F16.0-H-20,GOODWE,GoodWe Technologies Co Ltd,Pre-assembled Battery System (BS),Lynx F G2,2023-09-15,2026-09-15,0.0,11.2,16.0,16.0,Yes
+LX F13.1-H,Goodwe,GoodWe Technologies Co Ltd,Pre-assembled Battery System (BS),Lynx Home F Series,2022-11-25,2025-11-25,0.0,10.24,13.1,13.1,Yes
+LX F12.8-H-20,GOODWE,GoodWe Technologies Co Ltd,Pre-assembled Battery System (BS),Lynx F G2,2023-09-15,2026-09-15,0.0,8.96,12.8,12.8,Yes
+LX D5.0-10,GOODWE,GoodWe Technologies Co Ltd,Pre-assembled Battery System (BS),Lynx Home D,2023-11-17,2026-11-17,0.0,3.0,5.0,5.0,Yes
+LX C156-10,Goodwe,GoodWe Technologies Co Ltd,Pre-assembled Battery System (BS),Lynx C,2023-01-11,2026-01-11,0.0,65.28,156.67,156.67,No
+LX C138-10,Goodwe,GoodWe Technologies Co Ltd,Pre-assembled Battery System (BS),Lynx C,2023-01-11,2026-01-11,0.0,57.6,138.24,138.24,No
+LX C120-10,Goodwe,GoodWe Technologies Co Ltd,Pre-assembled Battery System (BS),Lynx C,2023-01-11,2026-01-11,0.0,49.92,119.81,119.81,No
+LX C101-10,Goodwe,GoodWe Technologies Co Ltd,Pre-assembled Battery System (BS),Lynx C,2023-01-11,2026-01-11,0.0,42.24,101.38,101.38,No
+HOME E10,Green Solutions Inc,Jiawei Venture Co Ltd,Pre-assembled Battery System (BS),HOME E10,2022-05-09,2025-05-09,5.0,5.0,10.2,9.7,Yes
+GRE-U-P4880-1,GREENTEK,Techplus Control System Pty LTD,Pre-assembled Battery System (BS),Greentek Graphene-LV,2022-12-13,2025-12-13,0.0,8.7,4.1,3.28,No
+ARK 7.6XH-A1,GROWATT,Shenzhen Growatt New Energy Co Ltd,Pre-assembled Battery System (BS),ARK,2021-12-08,2024-12-08,0.0,3.75,7.5,6.75,Yes
+ARK 7.6L-A1,Growatt,Shenzhen Growatt New Energy Co Ltd,Pre-assembled Battery System (BS),ARK,2022-01-11,2025-01-11,0.0,3.84,7.68,6.9,Yes
+ARK 7.6H-A1,Growatt,Growatt New Energy Australia Pty Ltd,Pre-assembled Battery System (BS),ARK High Voltage Battery System,2021-12-01,2024-12-01,0.0,3.84,7.68,6.91,Yes
+ARK 5.1XH-A1,GROWATT,Shenzhen Growatt New Energy Co Ltd,Pre-assembled Battery System (BS),ARK,2021-12-08,2024-12-08,0.0,2.5,5.12,4.61,Yes
+ARK 5.1L-A1,Growatt,Shenzhen Growatt New Energy Co Ltd,Pre-assembled Battery System (BS),ARK,2022-01-11,2025-01-11,0.0,2.56,5.12,4.6,Yes
+ARK 5.1H-A1,Growatt,Growatt New Energy Australia Pty Ltd,Pre-assembled Battery System (BS),ARK High Voltage Battery System,2021-12-01,2024-12-01,0.0,2.56,5.12,4.61,Yes
+ARK 25.6XH-A1,GROWATT,Shenzhen Growatt New Energy Co Ltd,Pre-assembled Battery System (BS),ARK,2021-12-08,2024-12-08,0.0,12.5,25.6,23.04,Yes
+ARK 25.6L-A1,Growatt,Shenzhen Growatt New Energy Co Ltd,Pre-assembled Battery System (BS),ARK,2022-01-11,2025-01-11,0.0,5.1,25.6,23.0,Yes
+ARK 25.6H-A1,Growatt,Growatt New Energy Australia Pty Ltd,Pre-assembled Battery System (BS),ARK High Voltage Battery System,2021-12-01,2024-12-01,0.0,12.8,25.6,23.04,Yes
+ARK 23.0XH-A1,OWATT,Shenzhen Growatt New Energy Co Ltd,Pre-assembled Battery System (BS),ARK,2021-12-08,2024-12-08,0.0,11.5,23.04,20.74,Yes
+ARK 23.0L-A1,Growatt,Shenzhen Growatt New Energy Co Ltd,Pre-assembled Battery System (BS),ARK,2022-01-11,2025-01-11,0.0,5.1,23.04,20.7,Yes
+ARK 23.0H-A1,Growatt,Growatt New Energy Australia Pty Ltd,Pre-assembled Battery System (BS),ARK High Voltage Battery System,2021-12-01,2024-12-01,0.0,11.52,23.04,20.74,Yes
+ARK 20.4XH-A1,GROWATT,Shenzhen Growatt New Energy Co Ltd,Pre-assembled Battery System (BS),ARK,2021-12-08,2024-12-08,0.0,10.0,20.48,18.43,Yes
+ARK 20.4L-A1,Growatt,Shenzhen Growatt New Energy Co Ltd,Pre-assembled Battery System (BS),ARK,2022-01-11,2025-01-11,0.0,5.1,20.48,18.4,Yes
+ARK 20.4H-A1,Growatt,Growatt New Energy Australia Pty Ltd,Pre-assembled Battery System (BS),ARK High Voltage Battery System,2021-12-01,2024-12-01,0.0,10.24,20.48,18.43,Yes
+ARK 2.5L-A1,Growatt,Shenzhen Growatt New Energy Co Ltd,Pre-assembled Battery System (BS),ARK,2022-01-11,2025-01-11,0.0,1.28,2.56,2.3,Yes
+ARK 17.9XH-A1,GROWATT,Shenzhen Growatt New Energy Co Ltd,Pre-assembled Battery System (BS),ARK,2021-12-08,2024-12-08,0.0,8.75,17.92,16.13,Yes
+ARK 17.9L-A1,Growatt,Shenzhen Growatt New Energy Co Ltd,Pre-assembled Battery System (BS),ARK,2022-01-11,2025-01-11,0.0,5.1,17.92,16.1,Yes
+ARK 17.9H-A1,Growatt,Growatt New Energy Australia Pty Ltd,Pre-assembled Battery System (BS),ARK High Voltage Battery System,2021-12-01,2024-12-01,0.0,8.96,17.92,16.13,Yes
+ARK 15.3XH-A1,GROWATT,Shenzhen Growatt New Energy Co Ltd,Pre-assembled Battery System (BS),ARK,2021-12-08,2024-12-08,0.0,7.5,15.0,13.5,Yes
+ARK 15.3L-A1,Growatt,Shenzhen Growatt New Energy Co Ltd,Pre-assembled Battery System (BS),ARK,2022-01-11,2025-01-11,0.0,5.1,15.36,13.8,Yes
+ARK 15.3H-A1,Growatt,Growatt New Energy Australia Pty Ltd,Pre-assembled Battery System (BS),ARK High Voltage Battery System,2021-12-01,2024-12-01,0.0,7.68,15.36,13.82,Yes
+ARK 12.8XH-A1,GROWATT,Shenzhen Growatt New Energy Co Ltd,Pre-assembled Battery System (BS),ARK,2021-12-08,2024-12-08,0.0,6.25,12.5,11.25,Yes
+ARK 12.8L-A1,Growatt,Shenzhen Growatt New Energy Co Ltd,Pre-assembled Battery System (BS),ARK,2022-01-11,2025-01-11,0.0,5.1,12.8,11.5,Yes
+ARK 12.8H-A1,Growatt,Growatt New Energy Australia Pty Ltd,Pre-assembled Battery System (BS),ARK High Voltage Battery System,2021-12-01,2024-12-01,0.0,6.4,12.8,11.52,Yes
+ARK 10.2XH-A1,GROWATT,Shenzhen Growatt New Energy Co Ltd,Pre-assembled Battery System (BS),ARK,2021-12-08,2024-12-08,0.0,5.0,10.0,9.0,Yes
+ARK 10.2L-A1,Growatt,Shenzhen Growatt New Energy Co Ltd,Pre-assembled Battery System (BS),ARK,2022-01-11,2025-01-11,0.0,5.1,10.24,9.2,Yes
+ARK 10.2H-A1,Growatt,Growatt New Energy Australia Pty Ltd,Pre-assembled Battery System (BS),ARK High Voltage Battery Systerm,2021-12-01,2024-12-01,0.0,5.12,10.24,9.22,Yes
+APX 5.0P-S1,GROWATT,Shenzhen Growatt New Energy Co Ltd,Pre-assembled Battery System (BS),APX S1,2023-11-01,2026-11-01,0.0,2.5,5.0,4.5,Yes
+APX 30.0P-S1,GROWATT,Shenzhen Growatt New Energy Co Ltd,Pre-assembled Battery System (BS),APX S1,2023-11-01,2026-11-01,0.0,7.5,25.0,22.5,Yes
+APX 25.0P-S1,GROWATT,Shenzhen Growatt New Energy Co Ltd,Pre-assembled Battery System (BS),APX S1,2023-11-01,2026-11-01,0.0,7.5,25.0,22.5,Yes
+APX 20.0P-S1,GROWATT,Shenzhen Growatt New Energy Co Ltd,Pre-assembled Battery System (BS),APX S1,2023-11-01,2026-11-01,0.0,7.5,20.0,18.0,Yes
+APX 15.0P-S1,GROWATT,Shenzhen Growatt New Energy Co Ltd,Pre-assembled Battery System (BS),APX S1,2023-11-01,2026-11-01,0.0,7.5,15.0,13.5,Yes
+APX 10.0P-S1,GROWATT,Shenzhen Growatt New Energy Co Ltd,Pre-assembled Battery System (BS),APX S1,2023-11-01,2026-11-01,0.0,5.0,10.0,9.0,Yes
+ALP 5.0L-E1,GROWATT,Shenzhen Growatt New Energy Co Ltd,Pre-assembled Battery System (BS),ALP,2023-06-22,2026-06-22,0.0,3.5,5.0,4.6,Yes
+ALP 40.0L-E1,GROWATT,Shenzhen Growatt New Energy Co Ltd,Pre-assembled Battery System (BS),ALP,2023-06-22,2026-06-22,0.0,5.0,40.0,36.8,No
+ALP 35.0L-E1,GROWATT,Shenzhen Growatt New Energy Co Ltd,Pre-assembled Battery System (BS),ALP,2023-06-22,2026-06-22,0.0,5.0,35.0,32.2,No
+ALP 30.0L-E1,GROWATT,Shenzhen Growatt New Energy Co Ltd,Pre-assembled Battery System (BS),ALP,2023-06-22,2026-06-22,0.0,5.0,30.0,27.6,Yes
+ALP 25.0L-E1,GROWATT,Shenzhen Growatt New Energy Co Ltd,Pre-assembled Battery System (BS),ALP,2023-06-22,2026-06-22,0.0,5.0,25.0,23.0,Yes
+ALP 20.0L-E1,ROWATT,Shenzhen Growatt New Energy Co Ltd,Pre-assembled Battery System (BS),ALP,2023-06-22,2026-06-22,0.0,5.0,20.0,18.4,Yes
+ALP 15.0L-E1,GROWATT,Shenzhen Growatt New Energy Co Ltd,Pre-assembled Battery System (BS),ALP,2023-06-22,2026-06-22,0.0,5.0,15.0,13.8,Yes
+ALP 10.0L-E1,GROWATT,Shenzhen Growatt New Energy Co Ltd,Pre-assembled Battery System (BS),ALP,2023-06-22,2026-06-22,0.0,5.0,10.0,9.2,Yes
+GBL5.8K3,GS ENERGY storage system,SYL (Ningbo) Battery Co Ltd,Pre-assembled Battery System (BS),,2021-06-29,2024-06-29,0.0,2.75,5.8,5.3,Yes
+GSL501280A-B-GPB2,GSL ENERGY,Shenzhen GSL Energy Co Ltd,Pre-assembled Battery System (BS),,2023-08-30,2026-08-30,0.0,14.34,14.34,11.47,No
+GSL051200A-B-GBP2,GSL ENERGY,Shenzhen GSL Energy Co Ltd,Pre-assembled Battery System (BS),,2023-08-23,2026-08-23,0.0,10.24,10.24,8.19,No
+HEC-S B 5K,HICONICS,Hiconics Eco-energy Drive Technology Co Ltd,Pre-assembled Battery System (BS),HEC-S,2022-10-31,2025-10-31,0.0,4.1,5.12,4.6,No
+HEC-S B 20K,HICONICS,Hiconics Eco-energy Drive Technology Co Ltd,Pre-assembled Battery System (BS),HEC-S,2022-10-31,2025-10-31,0.0,5.12,20.48,18.4,No
+HEC-S B 15K,HICONICS,Hiconics Eco-energy Drive Technology Co Ltd,Pre-assembled Battery System (BS),HEC-S,2022-10-31,2025-10-31,0.0,5.12,15.36,13.8,No
+HEC-S B 10K,HICONICS,Hiconics Eco-energy Drive Technology Co Ltd,Pre-assembled Battery System (BS),HEC-S,2022-10-31,2025-10-31,0.0,5.12,10.24,9.2,No
+VHR TL48100LFP-3U,HRESYS,Zhejiang Hengrui Technology Co Ltd,Pre-assembled Battery System (BS),,2021-07-02,2024-07-02,0.0,0.9,4.8,4.8,No
+LUNA2000-5-S0 (LUNA2000-5kW-C0 + 1xLUNA2000-5-EO),Huawei,Huawei Technologies Co Ltd,Pre-assembled Battery System (BS),LUNA,2021-04-07,2024-04-07,0.0,2.5,5.0,5.0,Yes
+LUNA2000-15-S0( LUNA2000-5kW-C0 + 3xLUNA2000-5-EO),Huawei,Huawei Technologies Co Ltd,Pre-assembled Battery System (BS),LUNA,2021-04-07,2024-04-07,0.0,5.0,15.0,15.0,Yes
+LUNA2000-10-S0 (LUNA2000-5kW-C0 + 2xLUNA2000-5-EO),Huawei,Huawei Technologies Co Ltd,Pre-assembled Battery System (BS),LUNA,2021-04-07,2024-04-07,0.0,5.0,10.0,10.0,Yes
+IS-BATT-5000-S0,iStore,iStore (QLD) Pty Ltd,Pre-assembled Battery System (BS),IS-BATT,2023-10-19,2026-10-19,0.0,2.5,5.0,5.0,Yes
+IS-BATT-15000-S0,iStore,iStore (QLD) Pty Ltd,Pre-assembled Battery System (BS),IS-BATT,2023-10-19,2026-10-19,0.0,5.0,15.0,15.0,Yes
+IS-BATT-10000-S0,iStore,iStore (QLD) Pty Ltd,Pre-assembled Battery System (BS),IS-BATT,2023-10-19,2026-10-19,0.0,5.0,10.0,10.0,Yes
+JKS-B51500-BI,JINKO,Jinko Solar Co Ltd,Pre-assembled Battery System (BS),JKS-B51XXX-BI,2022-06-10,2025-06-10,0.0,5.1,25.64,23.0,Yes
+JKS-B5150-BI,JINKO,Jinko Solar Co Ltd,Pre-assembled Battery System (BS),JKS-B51XXX-BI,2022-06-10,2025-06-10,0.0,1.28,2.56,2.3,Yes
+JKS-B51450-BI,JINKO,Jinko Solar Co Ltd,Pre-assembled Battery System (BS),JKS-B51XXX-BI,2022-06-10,2025-06-10,0.0,5.1,23.04,20.7,Yes
+JKS-B51400-BI,JINKO,Jinko Solar Co Ltd,Pre-assembled Battery System (BS),JKS-B51XXX-BI,2022-06-10,2025-06-10,0.0,5.1,20.48,18.4,Yes
+JKS-B51350-BI,JINKO,Jinko Solar Co Ltd,Pre-assembled Battery System (BS),JKS-B51XXX-BI,2022-06-10,2025-06-10,0.0,5.1,17.92,16.1,Yes
+JKS-B51300-BI,JINKO,Jinko Solar Co Ltd,Pre-assembled Battery System (BS),JKS-B51XXX-BI,2022-06-10,2025-06-10,0.0,5.1,15.35,13.8,Yes
+JKS-B51250-BI,JINKO,Jinko Solar Co Ltd,Pre-assembled Battery System (BS),JKS-B51XXX-BI,2022-06-10,2025-06-10,0.0,5.1,12.8,11.5,Yes
+JKS-B51200-BI,JINKO,Jinko Solar Co Ltd,Pre-assembled Battery System (BS),JKS-B51XXX-BI,2022-06-10,2025-06-10,0.0,5.1,10.24,9.2,Yes
+JKS-B51150-BI,JINKO,Jinko Solar Co Ltd,Pre-assembled Battery System (BS),JKS-B51XXX-BI,2022-06-10,2025-06-10,0.0,3.84,7.68,6.9,Yes
+JKS-B51100-GI,Jinko,Jinko Solar Co Ltd,Pre-assembled Battery System (BS),JKS-B51100-GI,2023-06-09,2026-06-09,0.0,5.0,5.12,4.6,Yes
+JKS-B51100-BI,JINKO,Jinko Solar Co Ltd,Pre-assembled Battery System (BS),JKS-B51XXX-BI,2022-06-10,2025-06-10,0.0,2.56,5.12,4.6,Yes
+KY-96V105AH,KOYOE,Jiangsu Koyoe Energy Technology Co Ltd,Pre-assembled Battery System (BS),KY-SSBY,2021-06-04,2024-06-04,0.0,4.8,10.0,9.0,No
+KY-51V105AH-S,KOYOE,Jiangsu Koyoe Energy Technology Co Ltd,Pre-assembled Battery System (BS),,2023-03-24,2026-03-24,0.0,2.56,5.38,4.84,Yes
+KY-48V105AH,OYOE,Jiangsu Koyoe Energy Technology Co Ltd,Pre-assembled Battery System (BS),KY-SSBY,2021-06-04,2024-06-04,0.0,2.4,5.04,4.5,No
+KY-480V105AH,KOYOE,Jiangsu Koyoe Energy Technology Co Ltd,Pre-assembled Battery System (BS),KY-SSBY,2021-06-04,2024-06-04,0.0,24.0,50.0,45.0,No
+KY-432V105AH,KOYOE,Jiangsu Koyoe Energy Technology Co Ltd,Pre-assembled Battery System (BS),KY-SSBY,2021-06-04,2024-06-04,0.0,21.6,45.0,40.5,No
+KY-384V105AH,KOYOE,Jiangsu Koyoe Energy Technology Co Ltd,Pre-assembled Battery System (BS),KY-SSBY,2021-06-04,2024-06-04,0.0,19.2,40.0,36.0,No
+KY-336V105AH,KOYOE,Jiangsu Koyoe Energy Technology Co Ltd,Pre-assembled Battery System (BS),KY-SSBY,2021-06-04,2024-06-04,0.0,16.8,35.0,31.5,No
+KY-288V105AH,KOYOE,Jiangsu Koyoe Energy Technology Co Ltd,Pre-assembled Battery System (BS),KY-SSBY,2021-06-04,2024-06-04,0.0,14.4,30.0,27.0,No
+KY-240V105AH,KOYOE,Jiangsu Koyoe Energy Technology Co Ltd,Pre-assembled Battery System (BS),KY-SSBY,2021-06-04,2024-06-04,0.0,12.0,25.0,22.5,No
+KY-192V105AH,KOYOE,Jiangsu Koyoe Energy Technology Co Ltd,Pre-assembled Battery System (BS),KY-SSBY,2021-06-04,2024-06-04,0.0,9.6,20.0,18.0,No
+KY-144V105AH,KOYOE,Jiangsu Koyoe Energy Technology Co Ltd,Pre-assembled Battery System (BS),KY-SSBY,2021-06-04,2024-06-04,0.0,7.2,15.0,13.5,No
+BluE-Pack-5.1-16S-100A-N,Kstar,SHENZHEN KSTAR NEW ENERGY COMPANY LIMITED,Pre-assembled Battery System (BS),BluE-Pack BAT,2022-09-12,2025-09-12,0.0,4.1,5.12,4.6,Yes
+BluE-Pack-5.1-16S-100A-F,Kstar,SHENZHEN KSTAR NEW ENERGY COMPANY LIMITED,Pre-assembled Battery System (BS),BluE-Pack BAT,2022-09-12,2025-09-12,0.0,4.1,5.12,4.6,Yes
+BluE-Pack-25.5-16S-100A-N,Kstar,SHENZHEN KSTAR NEW ENERGY COMPANY LIMITED,Pre-assembled Battery System (BS),BluE-Pack BAT,2022-09-12,2025-09-12,0.0,5.12,25.6,23.0,Yes
+BluE-Pack-25.5-16S-100A-F,Kstar,SHENZHEN KSTAR NEW ENERGY COMPANY LIMITED,Pre-assembled Battery System (BS),BluE-Pack BAT,2022-09-12,2025-09-12,0.0,5.12,25.6,23.0,Yes
+BluE-Pack-20.4-16S-100A-N,Kstar,SHENZHEN KSTAR NEW ENERGY COMPANY LIMITED,Pre-assembled Battery System (BS),BluE-Pack BAT,2022-09-12,2025-09-12,0.0,5.12,20.48,18.4,Yes
+BluE-Pack-20.4-16S-100A-F,Kstar,SHENZHEN KSTAR NEW ENERGY COMPANY LIMITED,Pre-assembled Battery System (BS),BluE-Pack BAT,2022-09-12,2025-09-12,0.0,5.12,20.48,18.4,Yes
+BluE-Pack-15.3-16S-100A-N,Kstar,SHENZHEN KSTAR NEW ENERGY COMPANY LIMITED,Pre-assembled Battery System (BS),BluE-Pack BAT,2022-09-12,2025-09-12,0.0,5.12,15.36,13.8,Yes
+BluE-Pack-15.3-16S-100A-F,Kstar,SHENZHEN KSTAR NEW ENERGY COMPANY LIMITED,Pre-assembled Battery System (BS),BluE-Pack BAT,2022-09-12,2025-09-12,0.0,5.12,15.36,13.8,Yes
+BluE-Pack-10.2-16S-100A-N,Kstar,SHENZHEN KSTAR NEW ENERGY COMPANY LIMITED,Pre-assembled Battery System (BS),BluE-Pack BAT,2022-09-12,2025-09-12,0.0,5.12,10.24,9.2,Yes
+BluE-Pack-10.2-16S-100A-F,Kstar,SHENZHEN KSTAR NEW ENERGY COMPANY LIMITED,Pre-assembled Battery System (BS),BluE-Pack BAT,2022-09-12,2025-09-12,0.0,5.12,10.24,9.2,Yes
+BLGRESU16HP,LG,LG Electronics Australia,Pre-assembled Battery System (BS),LG HBP Battery Series,2021-10-25,2024-10-25,0.0,7.0,16.45,16.0,Yes
+BLGRESU10HP,LG,LG Electronics Australia,Pre-assembled Battery System (BS),LG HBP Battery Series,2021-10-25,2024-10-25,0.0,5.0,9.87,9.6,Yes
+RESU6.5,LG Energy Solution,LG Energy Solution Ltd,Pre-assembled Battery System (BS),RESU,2021-06-25,2024-06-25,0.0,4.2,6.5,5.9,Yes
+RESU13,LG Energy Solution,LG Energy Solution Ltd,Pre-assembled Battery System (BS),RESU,2021-06-25,2024-06-25,0.0,5.0,13.0,12.4,Yes
+RESU12,LG Energy Solution,LG Energy Solution Ltd,Pre-assembled Battery System (BS),RESU,2021-10-07,2024-10-07,0.0,5.0,13.1,11.7,Yes
+RESU10H Type R (R15563P3SSEG),LG Energy Solution,LG Energy Solution Ltd,Pre-assembled Battery System (BS),RESU,2021-06-25,2024-06-25,0.0,5.0,9.8,9.3,Yes
+RESU10H Type C (R15563P3SDLT),LG Energy Solution,LG Energy Solution Ltd,Pre-assembled Battery System (BS),RESU,2021-06-25,2024-06-25,0.0,5.0,9.8,9.3,Yes
+RESU10,LG Energy Solution,LG Energy Solution Ltd,Pre-assembled Battery System (BS),RESU,2021-06-25,2024-06-25,0.0,5.0,9.8,8.8,Yes
+RESU 16H Prime,LG Energy Solution,LG Energy Solution Ltd,Pre-assembled Battery System (BS),RESU,2021-06-03,2024-06-03,0.0,7.0,16.0,16.0,Yes
+RESU 10H Prime,LG Energy Solution,LG Energy Solution Ltd,Pre-assembled Battery System (BS),RESU,2021-06-11,2024-06-11,0.0,5.0,9.6,9.6,Yes
+RESERVE-BAT-1-DC-10.1-INT,Maxeon,Maxeon Solar Technologies Ltd,Pre-assembled Battery System (BS),RESERVE,2023-05-10,2026-05-10,0.0,5.0,10.1,9.6,Yes
+BW-BAT-10.1P VI,EOVOLT,Suzhou Bytewatt Technology Co Ltd,Pre-assembled Battery System (BS),BW-BAT,2023-03-07,2026-03-07,0.0,5.04,60.6,57.6,Yes
+BW-BAT-10.1P V,NEOVOLT,Suzhou Bytewatt Technology Co Ltd,Pre-assembled Battery System (BS),BW-BAT,2023-03-07,2026-03-07,0.0,5.04,50.5,48.0,Yes
+BW-BAT-10.1P IV,NEOVOLT,Suzhou Bytewatt Technology Co Ltd,Pre-assembled Battery System (BS),BW-BAT,2023-03-07,2026-03-07,0.0,5.04,40.4,38.4,Yes
+BW-BAT-10.1P III,NEOVOLT,Suzhou Bytewatt Technology Co Ltd,Pre-assembled Battery System (BS),BW-BAT,2023-03-07,2026-03-07,0.0,5.04,30.3,28.8,Yes
+BW-BAT-10.1P II,NEOVOLT,Suzhou Bytewatt Technology Co Ltd,Pre-assembled Battery System (BS),BW-BAT,2023-03-07,2026-03-07,0.0,5.04,20.2,19.2,Yes
+BW-BAT-10.1P,NEOVOLT,Suzhou Bytewatt Technology Co Ltd,Pre-assembled Battery System (BS),BW-BAT,2023-03-07,2026-03-07,0.0,5.04,10.1,9.6,Yes
+LPBES-864-100-PA,OLIPOWER,Shenzhen OLiPower Energy & Automation Technology Co Ltd,Pre-assembled Battery System (BS),LPBES,2022-06-02,2025-06-02,0.0,43.2,86.4,69.12,Yes
+LPBES-768-100-PA,OLIPOWER,Shenzhen OLiPower Energy & Automation Technology Co Ltd,Pre-assembled Battery System (BS),LPBES,2022-06-02,2025-06-02,0.0,38.4,76.8,61.44,Yes
+LPBES-672-100-PA,OLIPOWER,Shenzhen OLiPower Energy & Automation Technology Co Ltd,Pre-assembled Battery System (BS),LPBES,2022-06-02,2025-06-02,0.0,33.6,67.2,53.76,Yes
+LPBES-576-100-PA,OLIPOWER,Shenzhen OLiPower Energy & Automation Technology Co Ltd,Pre-assembled Battery System (BS),LPBES,2022-06-02,2025-06-02,0.0,28.8,57.6,46.08,Yes
+LPBES-480-100-PA,OLIPOWER,Shenzhen OLiPower Energy & Automation Technology Co Ltd,Pre-assembled Battery System (BS),LPBES,2022-06-02,2025-06-02,0.0,24.0,48.0,38.4,Yes
+LPBES-384-100-PA,OLIPOWER,Shenzhen OLiPower Energy & Automation Technology Co Ltd,Pre-assembled Battery System (BS),LPBES,2022-06-02,2025-06-02,0.0,19.2,38.4,30.72,Yes
+LPBES-288-100-PA,OLIPOWER,Shenzhen OLiPower Energy & Automation Technology Co Ltd,Pre-assembled Battery System (BS),LPBES,2022-06-02,2025-06-02,0.0,14.4,28.8,23.04,Yes
+LPBES-192-100-PA,OLIPOWER,Shenzhen OLiPower Energy & Automation Technology Co Ltd,Pre-assembled Battery System (BS),LPBES,2022-06-02,2025-06-02,0.0,9.6,19.2,15.36,Yes
+LB51100,OLiPower,Shenzhen OLiPower Energy & Automation Technology Co Ltd,Pre-assembled Battery System (BS),LB,2023-02-28,2026-02-28,0.0,5.0,5.12,4.1,No
+BRE-B-14K,OLiPower,Shenzhen OLiPower Energy & Automation Technology Co Ltd,Pre-assembled Battery System (BS),BRE-B,2023-02-28,2026-02-28,0.0,2.87,14.34,12.9,Yes
+BRE-B-10K,OLIPOWER,Shenzhen OLiPower Energy & Automation Technology Co Ltd,Pre-assembled Battery System (BS),BRE-B,2022-05-31,2025-05-31,0.0,4.8,9.6,8.6,Yes
+Powerfree 12,Pandpower,Shenzhen Pandpower Co. Ltd.,Pre-assembled Battery System (BS),Powerfree,2021-11-15,2024-11-15,0.0,5.12,12.0,10.8,Yes
+LiFe4838P,PowerPlus,Powerplus Energy Pty Ltd,Pre-assembled Battery System (BS),LiFe Premium P,2023-05-13,2026-05-13,0.0,3.2,3.8,3.8,No
+US3000,Pylon,Pylon Technologies Co Ltd,Pre-assembled Battery System (BS),US3000,2022-10-21,2025-10-21,0.0,1.8,3.55,3.2,No
+Powercube-X2-48-192V,Pylon,Pylon Technologies Co Ltd,Pre-assembled Battery System (BS),Powercube-X2,2023-01-13,2026-01-13,0.0,7.1,14.2,12.78,No
+Powercube-X2-48-192V,Pylon,Pylon Technologies Co Ltd,Pre-assembled Battery System (BS),Powercube-X2,2023-01-13,2026-01-13,0.0,7.1,14.2,12.78,No
+Powercube-H2-48-576V,Pylon,Pylon Technologies Co Ltd,Pre-assembled Battery System (BS),Powercube-H2,2023-01-13,2026-01-13,0.0,21.3,42.6,40.47,No
+Powercube-H2-48-576V,Pylon,Pylon Technologies Co Ltd,Pre-assembled Battery System (BS),Powercube-H2,2023-01-13,2026-01-13,0.0,21.3,42.6,40.47,No
+Powercube-H2-48-528V,Pylon,Pylon Technologies Co Ltd,Pre-assembled Battery System (BS),Powercube-H2,2023-01-13,2026-01-13,0.0,19.54,39.05,35.15,No
+Powercube-H2-48-528V,Pylon,Pylon Technologies Co Ltd,Pre-assembled Battery System (BS),Powercube-H2,2023-01-13,2026-01-13,0.0,19.54,39.05,35.15,No
+Powercube-H2-48-480V,Pylon,Pylon Technologies Co Ltd,Pre-assembled Battery System (BS),Powercube-H2,2023-01-13,2026-01-13,0.0,17.76,35.5,31.95,No
+Powercube-H2-48-480V,Pylon,Pylon Technologies Co Ltd,Pre-assembled Battery System (BS),Powercube-H2,2023-01-13,2026-01-13,0.0,17.76,35.5,31.95,No
+Powercube-H2-48-432V,Pylon,Pylon Technologies Co Ltd,Pre-assembled Battery System (BS),Powercube-H2,2023-01-13,2026-01-13,0.0,15.98,31.95,28.76,No
+Powercube-H2-48-432V,Pylon,Pylon Technologies Co Ltd,Pre-assembled Battery System (BS),Powercube-H2,2023-01-13,2026-01-13,0.0,15.98,31.95,28.76,No
+Powercube-H2-48-384V,Pylon,Pylon Technologies Co Ltd,Pre-assembled Battery System (BS),Powercube-H2,2023-01-13,2026-01-13,0.0,14.2,28.4,25.56,No
+Powercube-H2-48-384V,Pylon,Pylon Technologies Co Ltd,Pre-assembled Battery System (BS),Powercube-H2,2023-01-13,2026-01-13,0.0,14.2,28.4,25.56,No
+Powercube-H2-48-336V,Pylon,Pylon Technologies Co Ltd,Pre-assembled Battery System (BS),Powercube-H2,2023-01-13,2026-01-13,0.0,12.43,24.85,22.37,No
+Powercube-H2-48-288V,Pylon,Pylon Technologies Co Ltd,Pre-assembled Battery System (BS),Powercube-H2,2023-01-13,2026-01-13,0.0,10.66,21.3,19.17,No
+Powercube-H2-48-288V,Pylon,Pylon Technologies Co Ltd,Pre-assembled Battery System (BS),Powercube-H2,2023-01-13,2026-01-13,0.0,10.66,21.3,19.17,No
+Powercube-H2-48-240V,Pylon,Pylon Technologies Co Ltd,Pre-assembled Battery System (BS),Powercube-H2,2023-01-13,2026-01-13,0.0,8.88,17.75,15.98,No
+Powercube-H2-48-240V,Pylon,Pylon Technologies Co Ltd,Pre-assembled Battery System (BS),Powercube-H2,2023-01-13,2026-01-13,0.0,8.88,17.75,15.98,No
+US5000-B,PYLONTECH,Pylon Technologies Co Ltd,Pre-assembled Battery System (BS),US,2022-05-11,2025-05-11,0.0,3.8,4.8,4.56,No
+US5000,PYLONTECH,Pylon Technologies Co Ltd,Pre-assembled Battery System (BS),US,2022-05-11,2025-05-11,0.0,3.8,4.8,4.56,No
+US3000C,Pylontech,Pylon Technologies Co Ltd,Pre-assembled Battery System (BS),US3000C,2021-03-26,2024-03-26,0.0,1.78,3.55,3.37,No
+US2000,PYLONTECH,Pylon Technologies Co Ltd,Pre-assembled Battery System (BS),US,2022-05-11,2025-05-11,0.0,1.2,2.4,2.28,No
+PowerCube-M1C-32/800V-L10,PYLONTECH,Pylon Technologies Co Ltd,Pre-assembled Battery System (BS),PowerCube-M1-C,2023-10-23,2026-10-23,0.0,59.2,118.4,112.48,No
+PowerCube-M1C-32/768V-L10,PYLONTECH,Pylon Technologies Co Ltd,Pre-assembled Battery System (BS),PowerCube-M1-C,2023-10-23,2026-10-23,0.0,56.83,113.66,107.98,No
+PowerCube-M1C-32/736V-L10,PYLONTECH,Pylon Technologies Co Ltd,Pre-assembled Battery System (BS),PowerCube-M1-C,2023-10-23,2026-10-23,0.0,54.46,108.93,103.48,No
+PowerCube-M1C-32/704V-L10,PYLONTECH,Pylon Technologies Co Ltd,Pre-assembled Battery System (BS),PowerCube-M1-C,2023-10-23,2026-10-23,0.0,52.1,104.19,98.98,No
+PowerCube-M1C-32/672V-L10,PYLONTECH,Pylon Technologies Co Ltd,Pre-assembled Battery System (BS),PowerCube-M1-C,2023-10-23,2026-10-23,0.0,49.73,99.46,94.48,No
+PowerCube-M1C-32/640V-L10,PYLONTECH,Pylon Technologies Co Ltd,Pre-assembled Battery System (BS),PowerCube-M1-C,2023-10-23,2026-10-23,0.0,47.36,94.72,89.98,No
+PowerCube-M1C-32/608V-L10,PYLONTECH,Pylon Technologies Co Ltd,Pre-assembled Battery System (BS),PowerCube-M1-C,2023-10-23,2026-10-23,0.0,44.99,89.98,85.48,No
+PowerCube-M1C-32/576V-L10,PYLONTECH,Pylon Technologies Co Ltd,Pre-assembled Battery System (BS),PowerCube-M1-C,2023-10-23,2026-10-23,0.0,42.62,85.25,80.99,No
+PowerCube-M1C-32/352V-L10,PYLONTECH,Pylon Technologies Co Ltd,Pre-assembled Battery System (BS),PowerCube-M1-C,2023-10-23,2026-10-23,0.0,26.05,52.1,49.49,No
+PowerCube-M1C-32/320V-L10,PYLONTECH,Pylon Technologies Co Ltd,Pre-assembled Battery System (BS),PowerCube-M1-C,2023-10-23,2026-10-23,0.0,23.68,47.36,44.99,No
+Pelio-L-5.12,PYLONTECH,Pylon Technologies Co Ltd,Pre-assembled Battery System (BS),Pelio-L,2023-07-13,2026-07-13,0.0,4.1,5.12,4.86,Yes
+Force-L2-48-296,Pylontech,Pylon Technologies Co Ltd,Pre-assembled Battery System (BS),Force-L2,2020-12-03,2023-12-03,0.0,4.8,14.2,12.78,Yes
+Force-L2-48-222,Pylontech,Pylon Technologies Co Ltd,Pre-assembled Battery System (BS),Force-L2,2020-12-03,2023-12-03,0.0,4.8,10.65,9.59,Yes
+Force-L2-48-148,Pylontech,Pylon Technologies Co Ltd,Pre-assembled Battery System (BS),Force-L2,2020-12-03,2023-12-03,0.0,3.6,7.1,6.39,Yes
+Force-L1-48-518,Pylontech,Pylon Technologies Co Ltd,Pre-assembled Battery System (BS),Force-L1,2020-12-03,2023-12-03,0.0,4.8,24.86,22.37,Yes
+Force-L1-48-444,Pylontech,Pylon Technologies Co Ltd,Pre-assembled Battery System (BS),Force-L1,2020-12-03,2023-12-03,0.0,4.8,21.31,19.18,Yes
+Force-L1-48-370,Pylontech,Pylon Technologies Co Ltd,Pre-assembled Battery System (BS),Force-L1,2020-12-03,2023-12-03,0.0,4.8,17.76,15.98,Yes
+Force-L1-48-296,Pylontech,Pylon Technologies Co Ltd,Pre-assembled Battery System (BS),Force-L1,2020-12-03,2023-12-03,0.0,4.8,14.2,12.78,Yes
+Force-L1-48-222,Pylontech,Pylon Technologies Co Ltd,Pre-assembled Battery System (BS),Force-L1,2020-12-03,2023-12-03,0.0,4.8,10.65,9.59,Yes
+Force-L1-48-148,Pylontech,Pylon Technologies Co Ltd,Pre-assembled Battery System (BS),Force-L1,2020-12-03,2023-12-03,0.0,3.6,7.1,6.39,Yes
+Force-H2-96/384V,Pylontech,Pylon Technologies Co Ltd,Pre-assembled Battery System (BS),Force-H2,2020-12-03,2023-12-03,0.0,7.1,14.2,12.87,Yes
+Force-H2-96/288V,Pylontech,Pylon Technologies Co Ltd,Pre-assembled Battery System (BS),Force-H2,2020-12-03,2023-12-03,0.0,5.33,10.65,9.59,Yes
+Force-H2-96/192V,Pylontech,Pylon Technologies Co Ltd,Pre-assembled Battery System (BS),Force-H2,2020-12-03,2023-12-03,0.0,3.55,7.1,6.39,Yes
+Force-H1-48/336V,Pylontech,Pylon Technologies Co Ltd,Pre-assembled Battery System (BS),Force-H1,2020-12-03,2023-12-03,0.0,12.43,24.86,22.37,Yes
+Force-H1-48/288V,Pylontech,Pylon Technologies Co Ltd,Pre-assembled Battery System (BS),Force-H1,2020-12-03,2023-12-03,0.0,10.66,21.31,19.18,Yes
+Force-H1-48/240V,Pylontech,Pylon Technologies Co Ltd,Pre-assembled Battery System (BS),Force-H1,2020-12-03,2023-12-03,0.0,8.88,17.76,15.94,Yes
+Force-H1-48/192V,Pylontech,Pylon Technologies Co Ltd,Pre-assembled Battery System (BS),Force-H1,2020-12-03,2023-12-03,0.0,7.1,14.2,12.78,Yes
+Force-H1-48/144V,Pylontech,Pylon Technologies Co Ltd,Pre-assembled Battery System (BS),Force-H1,2020-12-03,2023-12-03,0.0,5.33,10.65,9.59,Yes
+8xUS3000C,Pylontech,Pylon Technologies Co Ltd,Pre-assembled Battery System (BS),US3000C,2021-03-26,2024-03-26,0.0,14.24,28.4,26.96,No
+7xUS3000C,Pylontech,Pylon Technologies Co Ltd,Pre-assembled Battery System (BS),US3000C,2021-03-26,2024-03-26,0.0,12.46,24.85,23.59,No
+6xUS3000C,Pylontech,Pylon Technologies Co Ltd,Pre-assembled Battery System (BS),US3000C,2021-03-26,2024-03-26,0.0,10.68,21.3,20.22,No
+5xUS3000C,Pylontech,Pylon Technologies Co Ltd,Pre-assembled Battery System (BS),US3000C,2021-03-26,2024-03-26,0.0,8.9,17.75,16.85,No
+4xUS3000C,Pylontech,Pylon Technologies Co Ltd,Pre-assembled Battery System (BS),US3000C,2021-03-26,2024-03-26,0.0,7.12,14.2,13.48,No
+3xUS3000C,Pylontech,Pylon Technologies Co Ltd,Pre-assembled Battery System (BS),US3000C,2021-03-26,2024-03-26,0.0,5.34,10.65,10.11,No
+2xUS3000C,Pylontech,Pylon Technologies Co Ltd,Pre-assembled Battery System (BS),US3000C,2021-03-26,2024-03-26,0.0,3.56,7.1,6.74,No
+E-BOX 48100R,PYTES,Shangahi PYTES Energy Co Ltd,Pre-assembled Battery System (BS),E-BOX,2023-06-07,2026-06-07,0.0,2.5,5.12,4.6,No
+Q.SAVE G2 6.3kWh B1.1.1,Q CELLS,Hanwha Solutions Corporation,Pre-assembled Battery System (BS),Q.HOME+ ESS HYB G2,2020-12-11,2023-12-11,0.0,3.0,6.3,5.67,Yes
+Q.SAVE B6.8S,Q Cells,Hanwha Solutions Corporation,Pre-assembled Battery System (BS),Q.HOME CORE,2021-12-02,2024-12-02,0.0,5.0,6.85,6.51,Yes
+SRS-332 NS (AS4777-2 2020),Red Earth Energy Storage,RedEarth Energy Storage Ltd,Pre-assembled Integrated Battery Energy Storage System (BESS),SRS,2023-05-19,2026-04-23,10.0,0.0,31.95,25.56,Yes
+SRS-332 (AS4777-2 2020),Red Earth Energy Storage,RedEarth Energy Storage Ltd,Pre-assembled Integrated Battery Energy Storage System (BESS),SRS,2023-11-08,2026-04-23,10.0,0.0,31.95,25.56,Yes
+SRS-328 NS (AS4777-2 2020),Red Earth Energy Storage,RedEarth Energy Storage Ltd,Pre-assembled Integrated Battery Energy Storage System (BESS),SRS,2023-05-19,2026-04-23,10.0,0.0,28.4,22.72,Yes
+SRS-328 (AS4777-2 2020),Red Earth Energy Storage,RedEarth Energy Storage Ltd,Pre-assembled Integrated Battery Energy Storage System (BESS),SRS,2023-11-08,2026-04-23,10.0,0.0,28.4,22.72,Yes
+SRS-325 NS (AS4777-2 2020),Red Earth Energy Storage,RedEarth Energy Storage Ltd,Pre-assembled Integrated Battery Energy Storage System (BESS),SRS,2023-05-19,2026-04-23,10.0,0.0,24.85,19.88,Yes
+SRS-325 (AS4777-2 2020),Red Earth Energy Storage,RedEarth Energy Storage Ltd,Pre-assembled Integrated Battery Energy Storage System (BESS),SRS,2023-11-08,2026-04-23,10.0,0.0,24.85,19.88,Yes
+SRS-321 NS (AS4777-2 2020),Red Earth Energy Storage,RedEarth Energy Storage Ltd,Pre-assembled Integrated Battery Energy Storage System (BESS),SRS,2023-05-19,2026-04-23,10.0,0.0,21.3,17.04,Yes
+SRS-321 (AS4777-2 2020),Red Earth Energy Storage,RedEarth Energy Storage Ltd,Pre-assembled Integrated Battery Energy Storage System (BESS),SRS,2023-11-08,2026-04-23,10.0,0.0,21.3,17.04,Yes
+SRS-318 NS (AS4777-2 2020),Red Earth Energy Storage,RedEarth Energy Storage Ltd,Pre-assembled Integrated Battery Energy Storage System (BESS),SRS,2023-05-19,2026-04-23,10.0,0.0,17.75,14.2,Yes
+SRS-318 (AS4777-2 2020),Red Earth Energy Storage,RedEarth Energy Storage Ltd,Pre-assembled Integrated Battery Energy Storage System (BESS),SRS,2023-11-08,2026-04-23,10.0,0.0,17.75,14.2,Yes
+SB9600 (AS4777-2 2020),Redback Technologies,Redback Operations Pty Ltd,Pre-assembled Integrated Battery Energy Storage System (BESS),Smart Battery,2022-05-10,2025-05-10,4.5,0.0,9.6,8.64,Yes
+SB7200 (AS4777-2 2020),Redback Technologies,Redback Operations Pty Ltd,Pre-assembled Integrated Battery Energy Storage System (BESS),Smart Battery,2021-12-19,2024-12-22,3.3,0.0,7.2,6.48,Yes
+SB14200 (AS4777-2 2020),Redback Technologies,Redback Operations Pty Ltd,Pre-assembled Integrated Battery Energy Storage System (BESS),Smart Battery,2022-05-10,2025-05-10,4.5,0.0,14.2,12.78,Yes
+TROPPO-4841,RedEarth,RedEarth Energy Storage Ltd,Pre-assembled Battery System (BS),Troppo,2021-07-22,2024-07-22,0.0,3.0,4.1,3.69,No
+SRS-224 (AS4777-2 2020),RedEarth,RedEarth Energy Storage Pty Ltd,Pre-assembled Integrated Battery Energy Storage System (BESS),SunRise,2023-05-19,2024-10-09,4.99,0.0,24.6,19.68,Yes
+SRS-220 (AS4777-2 2020),RedEarth,RedEarth Energy Storage Pty Ltd,Pre-assembled Integrated Battery Energy Storage System (BESS),SunRise,2023-05-19,2024-10-09,4.99,0.0,20.5,16.4,Yes
+SRS-216 (AS4777-2 2020),RedEarth,RedEarth Energy Storage Pty Ltd,Pre-assembled Integrated Battery Energy Storage System (BESS),SunRise,2023-05-19,2024-10-09,4.99,0.0,16.4,13.12,Yes
+SRS-212 (AS4777-2 2020),RedEarth,RedEarth Energy Storage Pty Ltd,Pre-assembled Integrated Battery Energy Storage System (BESS),SunRise,2023-05-19,2024-10-09,4.99,0.0,12.3,9.84,Yes
+SRS-208 (AS4777-2 2020),RedEarth,RedEarth Energy Storage Pty Ltd,Pre-assembled Integrated Battery Energy Storage System (BESS),SunRise,2023-05-19,2024-10-09,4.99,0.0,8.2,6.56,Yes
+SRS-204 (AS4777-2 2020),RedEarth,RedEarth Energy Storage Pty Ltd,Pre-assembled Integrated Battery Energy Storage System (BESS),SunRise,2023-05-19,2024-10-09,4.99,0.0,4.1,3.28,Yes
+SRS-124 (AS4777-2 2020),RedEarth,RedEarth Energy Storage Pty Ltd,Pre-assembled Integrated Battery Energy Storage System (BESS),SunRise,2023-05-19,2024-10-09,4.99,0.0,24.6,19.68,Yes
+SRS-120 (AS4777-2 2020),RedEarth,RedEarth Energy Storage Pty Ltd,Pre-assembled Integrated Battery Energy Storage System (BESS),SunRise,2023-05-19,2024-10-09,4.99,0.0,20.5,16.4,Yes
+SRS-116 (AS4777-2 2020),RedEarth,RedEarth Energy Storage Pty Ltd,Pre-assembled Integrated Battery Energy Storage System (BESS),SunRise,2023-05-19,2024-10-09,4.99,0.0,16.4,13.12,Yes
+SRS-112 (AS4777-2 2020),RedEarth,RedEarth Energy Storage Pty Ltd,Pre-assembled Integrated Battery Energy Storage System (BESS),SunRise,2023-05-19,2024-10-09,4.99,0.0,12.3,9.84,Yes
+SRS-108 (AS4777-2 2020),RedEarth,RedEarth Energy Storage Pty Ltd,Pre-assembled Integrated Battery Energy Storage System (BESS),SunRise,2023-05-19,2024-10-09,4.99,0.0,8.2,6.56,Yes
+SRS-104 (AS4777-2 2020),RedEarth,RedEarth Energy Storage Pty Ltd,Pre-assembled Integrated Battery Energy Storage System (BESS),SunRise,2023-05-19,2024-10-09,4.99,0.0,4.1,3.28,Yes
+SRM-212 (AS4777-2 2020),RedEarth,RedEarth Energy Storage Pty Ltd,Pre-assembled Integrated Battery Energy Storage System (BESS),SunRise,2023-05-19,2024-10-09,4.99,0.0,12.3,9.84,Yes
+SRM-208 (AS4777-2 2020),RedEarth,RedEarth Energy Storage Pty Ltd,Pre-assembled Integrated Battery Energy Storage System (BESS),SunRise,2023-05-19,2024-10-09,4.99,0.0,8.2,6.56,Yes
+SRM-204 (AS4777-2 2020),RedEarth,RedEarth Energy Storage Pty Ltd,Pre-assembled Integrated Battery Energy Storage System (BESS),SunRise,2023-05-19,2024-10-09,4.99,0.0,4.1,3.28,Yes
+SRM-200 (AS4777-2 2020),RedEarth,RedEarth Energy Storage Pty Ltd,Pre-assembled Integrated Battery Energy Storage System (BESS),SunRise,2023-05-19,2024-10-09,4.99,0.0,0.0,0.0,Yes
+SRM-112 (AS4777-2 2020),RedEarth,RedEarth Energy Storage Pty Ltd,Pre-assembled Integrated Battery Energy Storage System (BESS),SunRise,2023-05-19,2024-10-09,4.99,0.0,12.3,9.84,Yes
+SRM-108 (AS4777-2 2020),RedEarth,RedEarth Energy Storage Pty Ltd,Pre-assembled Integrated Battery Energy Storage System (BESS),SunRise,2023-05-19,2024-10-09,4.99,0.0,8.2,6.56,Yes
+SRM-104 (AS4777-2 2020),RedEarth,RedEarth Energy Storage Pty Ltd,Pre-assembled Integrated Battery Energy Storage System (BESS),SunRise,2023-05-19,2024-10-09,4.99,0.0,4.1,3.28,Yes
+SRM-100 (AS4777-2 2020),RedEarth,RedEarth Energy Storage Pty Ltd,Pre-assembled Integrated Battery Energy Storage System (BESS),SunRise,2023-05-19,2024-10-09,4.99,0.0,0.0,0.0,Yes
+BMX-207,RedEarth,RedEarth Energy Storage Ltd,Pre-assembled Integrated Battery Energy Storage System (BESS),BlackMAX,2021-08-03,2024-08-03,5.0,0.0,7.1,6.39,Yes
+BMX-203,RedEarth,RedEarth Energy Storage Ltd,Pre-assembled Integrated Battery Energy Storage System (BESS),BlackMAX,2021-08-03,2024-08-03,5.0,0.0,3.5,3.2,Yes
+BMX-112,RedEarth,RedEarth Energy Storage Ltd,Pre-assembled Integrated Battery Energy Storage System (BESS),BlackMAX,2021-08-03,2024-08-03,5.0,0.0,12.3,11.07,Yes
+BMX-108,RedEarth,RedEarth Energy Storage Ltd,Pre-assembled Integrated Battery Energy Storage System (BESS),BlackMAX,2021-08-03,2024-08-03,5.0,0.0,8.2,7.38,Yes
+BMX-104,RedEarth,RedEarth Energy Storage Ltd,Pre-assembled Integrated Battery Energy Storage System (BESS),BlackMAX,2021-08-03,2024-08-03,5.0,0.0,4.1,3.69,Yes
+RX-0050B,Redx,REDX TECHNOLOGY AUSTRALIA PTY LTD,Pre-assembled Battery System (BS),RX-0050B,2023-09-11,2026-09-11,0.0,2.5,5.12,4.61,No
+RX-0050,RedX,REDX TECHNOLOGY AUSTRALIA PTY LTD,Pre-assembled Battery System (BS),-,2023-05-18,2026-05-18,0.0,3.41,5.12,4.61,Yes
+RX-2505PW (AS4777-2 2020),Redx,Guang Dong Redx Electrical Technology Limited,Pre-assembled Integrated Battery Energy Storage System (BESS),RX2500,2023-01-23,2026-01-23,2.5,0.0,5.0,4.8,Yes
+RX-2505AC (AS4777-2 2020),Redx,Guang Dong Redx Electrical Technology Limited,Pre-assembled Integrated Battery Energy Storage System (BESS),RX2500,2023-01-23,2026-01-23,2.5,0.0,5.0,4.8,Yes
+R-XL028061,RENON,Renon Power Technology Inc,Pre-assembled Battery System (BS),Xtreme LV,2023-08-17,2026-08-17,0.0,14.4,28.8,28.8,Yes
+R-XL025051,RENON,Renon Power Technology Inc,Pre-assembled Battery System (BS),Xtreme LV,2023-08-17,2026-08-17,0.0,15.0,25.6,25.6,Yes
+R-XL024051,RENON,Renon Power Technology Inc,Pre-assembled Battery System (BS),Xtreme LV,2023-08-17,2026-08-17,0.0,14.4,24.0,24.0,Yes
+R-XL020041,RENON,Renon Power Technology Inc,Pre-assembled Battery System (BS),Xtreme LV,2023-08-17,2026-08-17,0.0,15.0,20.48,20.48,Yes
+R-XL019041,RENON,Renon Power Technology Inc,Pre-assembled Battery System (BS),Xtreme LV,2023-08-17,2026-08-17,0.0,14.4,19.2,19.2,Yes
+R-XL015031,RENON,Renon Power Technology Inc,Pre-assembled Battery System (BS),Xtreme LV,2023-08-17,2026-08-17,0.0,15.0,15.36,15.36,Yes
+R-XL014031,RENON,Renon Power Technology Inc,Pre-assembled Battery System (BS),Xtreme LV,2023-08-17,2026-08-17,0.0,14.4,14.4,14.4,Yes
+R-XL010021,RENON,Renon Power Technology Inc,Pre-assembled Battery System (BS),Xtreme LV,2023-08-17,2026-08-17,0.0,10.0,10.24,10.24,Yes
+R-XC005161,RENON,Renon Power Technology Inc,Pre-assembled Battery System (BS),Xcellent,2023-07-12,2026-07-12,0.0,5.0,5.12,5.12,No
+R-XC005151,RENON,Renon Power Technology Inc,Pre-assembled Battery System (BS),Xcellent,2023-07-12,2026-07-12,0.0,4.8,4.8,4.8,No
+B2-5.0-HV5,SAJ,Guangzhou Sanjing Electric Co Ltd,Pre-assembled Battery System (BS),B2,2023-01-06,2026-01-06,0.0,3.07,5.0,4.5,Yes
+B2-5.0-HV1,SAJ,Guangzhou Sanjing Electric Co Ltd,Pre-assembled Battery System (BS),B2,2023-01-06,2026-01-06,0.0,3.07,5.0,4.5,Yes
+B2-25.0-HV5,SAJ,Guangzhou Sanjing Electric Co Ltd,Pre-assembled Battery System (BS),B2,2023-01-06,2026-01-06,0.0,15.36,25.0,22.5,Yes
+B2-25.0-HV1,SAJ,Guangzhou Sanjing Electric Co Ltd,Pre-assembled Battery System (BS),B2,2023-01-06,2026-01-06,0.0,15.36,25.0,22.5,Yes
+B2-20.0-HV5,SAJ,Guangzhou Sanjing Electric Co Ltd,Pre-assembled Battery System (BS),B2,2023-01-06,2026-01-06,0.0,12.29,20.0,18.0,Yes
+B2-20.0-HV1,SAJ,Guangzhou Sanjing Electric Co Ltd,Pre-assembled Battery System (BS),B2,2023-01-06,2026-01-06,0.0,12.29,20.0,18.0,Yes
+B2-15.0-HV5,SAJ,Guangzhou Sanjing Electric Co Ltd,Pre-assembled Battery System (BS),B2,2023-01-06,2026-01-06,0.0,9.22,15.0,13.5,Yes
+B2-15.0-HV1,SAJ,Guangzhou Sanjing Electric Co Ltd,Pre-assembled Battery System (BS),B2,2023-01-06,2026-01-06,0.0,9.22,15.0,13.5,Yes
+B2-10.0-HV5,SAJ,Guangzhou Sanjing Electric Co Ltd,Pre-assembled Battery System (BS),B2,2023-01-06,2026-01-06,0.0,6.14,10.0,9.0,Yes
+B2-10.0-HV1,SAJ,Guangzhou Sanjing Electric Co Ltd,Pre-assembled Battery System (BS),B2,2023-01-06,2026-01-06,0.0,6.14,10.0,9.0,Yes
+SENEC.Home V3 hybrid 5 + SENEC.Backup Power pro (AS4777-2 2020),SENEC,SENEC GmbH,Pre-assembled Integrated Battery Energy Storage System (BESS),SENEC.Home V3,2023-05-16,2025-04-22,5.0,6.5,4.5,4.5,No
+SENEC.Home V3 hybrid 5 (AS4777-2 2020),SENEC,SENEC GmbH,Pre-assembled Integrated Battery Energy Storage System (BESS),SENEC.Home V3,2022-04-22,2025-04-22,5.0,0.0,4.5,4.5,No
+SENEC.Home V3 hybrid 10 + SENEC.Backup Power pro (AS4777-2 2020),SENEC,SENEC GmbH,Pre-assembled Integrated Battery Energy Storage System (BESS),SENEC.Home V3,2023-05-16,2025-04-22,5.0,8.0,9.0,9.0,No
+SENEC.Home V3 hybrid 10 (AS4777-2 2020),SENEC,SENEC GmbH,Pre-assembled Integrated Battery Energy Storage System (BESS),SENEC.Home V3,2022-04-22,2025-04-22,5.0,0.0,9.0,9.0,No
+BTS 5K,SOFAR SOLAR,Shenzhen SOFAR SOLAR Co Ltd,Pre-assembled Battery System (BS),BTS,2023-02-07,2026-02-07,0.0,2.5,5.12,4.75,Yes
+GTX3000-H9,SOFARSOLAR,SofarSolar Ausco Pty Ltd,Pre-assembled Battery System (BS),GTX3000-H,2021-06-16,2024-06-16,0.0,11.5,22.5,20.25,No
+GTX3000-H8,SOFARSOLAR,SofarSolar Ausco Pty Ltd,Pre-assembled Battery System (BS),GTX3000-H,2021-06-16,2024-06-16,0.0,10.24,20.0,18.0,No
+GTX3000-H7,SOFARSOLAR,SofarSolar Ausco Pty Ltd,Pre-assembled Battery System (BS),GTX3000-H,2021-06-16,2024-06-16,0.0,8.96,17.5,15.75,No
+GTX3000-H6,OFARSOLAR,SofarSolar Ausco Pty Ltd,Pre-assembled Battery System (BS),GTX3000-H,2021-06-16,2024-06-16,0.0,7.68,15.0,13.5,No
+GTX3000-H5,SOFARSOLAR,SofarSolar Ausco Pty Ltd,Pre-assembled Battery System (BS),GTX3000-H,2021-06-16,2024-06-16,0.0,6.4,12.5,11.25,No
+GTX3000-H4,SOFARSOLAR,SofarSolar Ausco Pty Ltd,Pre-assembled Battery System (BS),GTX3000-H,2021-06-16,2024-06-16,0.0,5.12,10.0,9.0,Yes
+GTX3000-H10,SOFARSOLAR,SofarSolar Ausco Pty Ltd,Pre-assembled Battery System (BS),GTX3000-H,2021-06-16,2024-06-16,0.0,12.8,25.0,22.5,No
+GTX2500,SOFARSOLAR,SofarSolar Ausco Pty Ltd,Pre-assembled Battery System (BS),GTX2500,2021-01-14,2024-01-14,0.0,1280.0,2.5,2.25,No
+B20L51V100,solarbatt,Beijing Hua Xin Liu He Investment (Australia) Pty Ltd,Pre-assembled Battery System (BS),B20L,2023-06-01,2026-06-01,0.0,2.56,5.12,4.1,No
+B20L48V100,solarbatt,Beijing Hua Xin Liu He Investment (Australia) Pty Ltd,Pre-assembled Battery System (BS),B20L,2023-06-01,2026-06-01,0.0,2.4,4.8,3.84,No
+BAT-10K1P,SolarEdge,SolarEdge Technologies Ltd,Pre-assembled Battery System (BS),solaredge,2021-09-30,2024-09-30,0.0,5.0,9.8,9.7,Yes
+T-BAT H 9.0 V2,SolaX,Solax Power Network Technology (Zhe jiang) Co Ltd,Pre-assembled Battery System (BS),Triple Power,2023-07-21,2026-07-21,0.0,7.6,9.2,8.3,Yes
+T-BAT H 6.0 V2,SolaX,Solax Power Network Technology (Zhe jiang) Co Ltd,Pre-assembled Battery System (BS),Triple Power,2023-07-21,2026-07-21,0.0,5.1,6.1,5.5,Yes
+T-BAT H 5.8 V2,SolaX,Solax Power Network Technology (Zhe jiang) Co Ltd,Pre-assembled Battery System (BS),Triple Power T-BAT H,2023-02-09,2026-02-09,0.0,2.8,5.8,5.1,Yes
+T-BAT H 3.0 V2,SolaX,Solax Power Network Technology (Zhe jiang) Co Ltd,Pre-assembled Battery System (BS),Triple Power,2023-07-21,2026-07-21,0.0,2.5,3.1,2.8,Yes
+T-BAT H 23 V2,SolaX,Solax Power Network Technology (Zhe jiang) Co Ltd,Pre-assembled Battery System (BS),Triple Power T-BAT H,2023-02-09,2026-02-09,0.0,11.5,23.0,20.7,Yes
+T-BAT H 17.3 V2,SolaX,Solax Power Network Technology (Zhe jiang) Co Ltd,Pre-assembled Battery System (BS),Triple Power T-BAT H,2023-02-09,2026-02-09,0.0,8.6,17.3,15.5,Yes
+T-BAT H 12.0 V2,SolaX,Solax Power Network Technology (Zhe jiang) Co Ltd,Pre-assembled Battery System (BS),Triple Power,2023-07-21,2026-07-21,0.0,10.2,12.3,11.0,Yes
+T-BAT H 11.5 V2,SolaX,Solax Power Network Technology (Zhe jiang) Co Ltd,Pre-assembled Battery System (BS),Triple Power T-BAT H,2023-02-09,2026-02-09,0.0,5.7,11.5,10.4,Yes
+T-BAT HS7.2,SOLAX POWER,Solax Power Network Technology (Zhe jiang) Co Ltd,Pre-assembled Battery System (BS),T-BAT-SYS-HV-S3.6,2023-09-08,2026-09-08,0.0,3.5,7.37,6.5,Yes
+T-BAT HS46.8,SOLAX POWER,Solax Power Network Technology (Zhe jiang) Co Ltd,Pre-assembled Battery System (BS),T-BAT-SYS-HV-S3.6,2023-09-08,2026-09-08,0.0,23.2,47.9,43.1,Yes
+T-BAT HS43.2,SOLAX POWER,Solax Power Network Technology (Zhe jiang) Co Ltd,Pre-assembled Battery System (BS),T-BAT-SYS-HV-S3.6,2023-09-08,2026-09-08,0.0,21.5,44.2,39.7,Yes
+T-BAT HS39.6,SOLAX POWER,Solax Power Network Technology (Zhe jiang) Co Ltd,Pre-assembled Battery System (BS),T-BAT-SYS-HV-S3.6,2023-09-08,2026-09-08,0.0,19.7,40.5,36.4,Yes
+T-BAT HS32.4,SOLAX POWER,Solax Power Network Technology (Zhe jiang) Co Ltd,Pre-assembled Battery System (BS),T-BAT-SYS-HV-S3.6,2023-09-08,2026-09-08,0.0,16.1,33.1,29.7,Yes
+T-BAT HS28.8,SOLAX POWER,Solax Power Network Technology (Zhe jiang) Co Ltd,Pre-assembled Battery System (BS),T-BAT-SYS-HV-S3.6,2023-09-08,2026-09-08,0.0,14.3,29.4,26.4,Yes
+T-BAT HS25.2,SOLAX POWER,Solax Power Network Technology (Zhe jiang) Co Ltd,Pre-assembled Battery System (BS),T-BAT-SYS-HV-S3.6,2023-09-08,2026-09-08,0.0,12.5,25.08,23.2,Yes
+T-BAT HS21.6,SOLAX POWER,Solax Power Network Technology (Zhe jiang) Co Ltd,Pre-assembled Battery System (BS),T-BAT-SYS-HV-S3.6,2023-09-08,2026-09-08,0.0,10.7,22.1,19.8,Yes
+T-BAT HS18.0,SOLAX POWER,Solax Power Network Technology (Zhe jiang) Co Ltd,Pre-assembled Battery System (BS),T-BAT-SYS-HV-S3.6,2023-09-08,2026-09-08,0.0,8.9,18.4,16.5,Yes
+T-BAT HS14.4,SOLAX POWER,Solax Power Network Technology (Zhe jiang) Co Ltd,Pre-assembled Battery System (BS),T-BAT-SYS-HV-S3.6,2023-09-08,2026-09-08,0.0,7.1,14.75,13.3,Yes
+T-BAT HS10.8,SOLAX POWER,Solax Power Network Technology (Zhe jiang) Co Ltd,Pre-assembled Battery System (BS),T-BAT-SYS-HV-S3.6,2023-09-08,2026-09-08,0.0,5.3,11.0,9.9,Yes
+T-BAT HS36.0,SOLAX POWER,Solax Power Network Technology (Zhe jiang) Co Ltd,Pre-assembled Battery System (BS),T-BAT-SYS-HV-S3.6,2023-09-08,2026-09-08,0.0,17.9,36.8,33.1,Yes
+Ai-LB 5K Pro,Solplanet,AISWEI New Energy Technology (Yangzhong) Co Ltd,Pre-assembled Battery System (BS),Ai-LB Pro,2023-09-04,2026-09-04,0.0,5.12,5.12,4.61,Yes
+Ai-LB 10K Pro,Solplanet,AISWEI New Energy Technology (Yangzhong) Co Ltd,Pre-assembled Battery System (BS),Ai-LB Pro,2023-09-04,2026-09-04,0.0,6.14,10.24,9.22,Yes
+Ai-HB 200A,Solplanet,AISWEI New Energy Technology (Yangzhong) Co Ltd,Pre-assembled Battery System (BS),Ai-HB,2023-07-11,2026-07-11,0.0,10.24,20.48,18.43,Yes
+Ai-HB 175A,Solplanet,AISWEI New Energy Technology (Yangzhong) Co Ltd,Pre-assembled Battery System (BS),Ai-HB,2023-07-11,2026-07-11,0.0,8.96,17.92,16.12,Yes
+Ai-HB 150A,Solplanet,AISWEI New Energy Technology (Yangzhong) Co Ltd,Pre-assembled Battery System (BS),Ai-HB,2023-07-11,2026-07-11,0.0,7.68,15.36,13.82,Yes
+Ai-HB 125A,Solplanet,AISWEI New Energy Technology (Yangzhong) Co Ltd,Pre-assembled Battery System (BS),Ai-HB,2023-07-11,2026-07-11,0.0,6.4,12.8,11.52,Yes
+Ai-HB 100A,Solplanet,AISWEI New Energy Technology (Yangzhong) Co Ltd,Pre-assembled Battery System (BS),Ai-HB,2023-07-11,2026-07-11,0.0,5.12,10.24,9.21,Yes
+Ai-HB 075A,Solplanet,AISWEI New Energy Technology (Yangzhong) Co Ltd,Pre-assembled Battery System (BS),Ai-HB,2023-07-11,2026-07-11,0.0,3.84,7.68,6.91,Yes
+AIO2-BTLV-5KWH,Soltaro,Soltaro Pty Ltd ATF Soltaro Unit Trust,Pre-assembled Battery System (BS),AIO2,2021-03-30,2024-03-30,0.0,5.12,5.0,4.5,Yes
+AIO2-BTLV-10KWH,Soltaro,Soltaro Pty Ltd ATF Soltaro Unit Trust,Pre-assembled Battery System (BS),AIO2,2021-03-30,2024-03-30,0.0,5.12,10.0,9.0,Yes
+Soluna 10K Pack HV,Soluna,DLG Energy (Shanghai) Co Ltd,Pre-assembled Battery System (BS),Solunaa Battery Modules,2021-04-13,2024-04-13,0.0,4.2,10.0,8.0,No
+sonnenBatterie Hybrid 9.53/7.5 + sonnenProtect (AS4777-2 2020),sonnen,SONNEN AUSTRALIA PTY LIMITED,Pre-assembled Integrated Battery Energy Storage System (BESS),sonnenBatterie Hybrid,2022-08-12,2025-08-12,4.6,0.0,7.5,6.75,No
+sonnenBatterie Hybrid 9.53/7.5 (AS4777-2 2020),sonnen,SONNEN AUSTRALIA PTY LIMITED,Pre-assembled Integrated Battery Energy Storage System (BESS),sonnenBatterie Hybrid,2022-08-12,2025-08-12,4.6,0.0,7.5,6.75,No
+sonnenBatterie Hybrid 9.53/5 + sonnenProtect (AS4777-2 2020),sonnen,SONNEN AUSTRALIA PTY LIMITED,Pre-assembled Integrated Battery Energy Storage System (BESS),sonnenBatterie Hybrid,2022-08-12,2025-08-12,4.6,0.0,5.0,4.5,No
+sonnenBatterie Hybrid 9.53/5 (AS4777-2 2020),sonnen,SONNEN AUSTRALIA PTY LIMITED,Pre-assembled Integrated Battery Energy Storage System (BESS),sonnenBatterie Hybrid,2022-08-12,2025-08-12,4.6,0.0,5.0,4.5,No
+sonnenBatterie Hybrid 9.53/2.5 + sonnenProtect (AS4777-2 2020),sonnen,SONNEN AUSTRALIA PTY LIMITED,Pre-assembled Integrated Battery Energy Storage System (BESS),sonnenBatterie Hybrid,2022-08-12,2025-08-12,4.6,0.0,2.5,2.25,No
+sonnenBatterie Hybrid 9.53/2.5 (AS4777-2 2020),sonnen,SONNEN AUSTRALIA PTY LIMITED,Pre-assembled Integrated Battery Energy Storage System (BESS),sonnenBatterie Hybrid,2022-08-12,2025-08-12,4.6,0.0,2.5,2.25,No
+sonnenBatterie Hybrid 9.53/15 + sonnenProtect (AS4777-2 2020),sonnen,SONNEN AUSTRALIA PTY LIMITED,Pre-assembled Integrated Battery Energy Storage System (BESS),sonnenBatterie Hybrid,2022-08-12,2025-08-12,4.6,0.0,15.0,13.5,No
+sonnenBatterie Hybrid 9.53/15 (AS4777-2 2020),sonnen,SONNEN AUSTRALIA PTY LIMITED,Pre-assembled Integrated Battery Energy Storage System (BESS),sonnenBatterie Hybrid,2022-08-12,2025-08-12,4.6,0.0,15.0,13.5,No
+sonnenBatterie Hybrid 9.53/12.5 + sonnenProtect (AS4777-2 2020),sonnen,SONNEN AUSTRALIA PTY LIMITED,Pre-assembled Integrated Battery Energy Storage System (BESS),sonnenBatterie Hybrid,2022-08-12,2025-08-12,4.6,0.0,12.5,11.25,No
+sonnenBatterie Hybrid 9.53/12.5 (AS4777-2 2020),sonnen,SONNEN AUSTRALIA PTY LIMITED,Pre-assembled Integrated Battery Energy Storage System (BESS),sonnenBatterie Hybrid,2022-08-12,2025-08-12,4.6,0.0,12.5,11.25,No
+sonnenBatterie Hybrid 9.53/10 + sonnenProtect (AS4777-2 2020),sonnen,SONNEN AUSTRALIA PTY LIMITED,Pre-assembled Integrated Battery Energy Storage System (BESS),sonnenBatterie Hybrid,2022-08-12,2025-08-12,4.6,0.0,10.0,9.0,No
+sonnenBatterie Hybrid 9.53/10 (AS4777-2 2020),sonnen,SONNEN AUSTRALIA PTY LIMITED,Pre-assembled Integrated Battery Energy Storage System (BESS),sonnenBatterie Hybrid,2022-08-12,2025-08-12,4.6,0.0,10.0,9.0,No
+sonnenBatterie Evo (AS4777-2 2020),SONNEN,SONNEN AUSTRALIA PTY LIMITED,Pre-assembled Integrated Battery Energy Storage System (BESS),sonnenBatterie,2022-06-27,2025-06-27,5.0,0.0,11.0,10.0,Yes
+SP-5KW-LB2,SPHERE,Tempo (Aust) Pty Ltd,Pre-assembled Battery System (BS),SP-XKW-LB2,2022-12-21,2025-12-21,0.0,3.38,5.12,4.61,Yes
+SP-HE51227-P,Stealth Energy,Suzhou Stealth Energy Technology Co Ltd,Pre-assembled Battery System (BS),SP-HEHV27 Series,2023-04-15,2026-04-15,0.0,10.8,13.82,13.13,No
+SP-HE40927-H,Stealth Energy,Suzhou Stealth Energy Technology Co Ltd,Pre-assembled Battery System (BS),SP-HEHV27 Series,2023-04-15,2026-04-15,0.0,8.64,11.05,10.5,No
+SP-HE30727-H,Stealth Energy,Suzhou Stealth Energy Technology Co Ltd,Pre-assembled Battery System (BS),SP-HEHV27 Series,2023-04-15,2026-04-15,0.0,6.48,8.29,7.88,No
+SP-HE20247-H,Stealth Energy,Suzhou Stealth Energy Technology Co Ltd,Pre-assembled Battery System (BS),SP-HEHV27 Series,2023-04-15,2026-04-15,0.0,4.32,5.53,5.25,No
+SP-HE10227-H,Stealth Energy,Suzhou Stealth Energy Technology Co Ltd,Pre-assembled Battery System (BS),SP-HEHV27 Series,2023-04-15,2026-04-15,0.0,2.16,2.76,2.62,No
+SBR256,SUNGROW,Sungrow Power Supply Co Ltd,Pre-assembled Battery System (BS),SBR,2023-08-02,2026-08-02,0.0,13.44,25.6,25.6,Yes
+SBR256,SUNGROW,SUNGROW AUSTRALIA GROUP PTY LTD,Pre-assembled Battery System (BS),,2021-04-09,2024-04-09,0.0,15.36,25.6,25.6,Yes
+SBR224,SUNGROW,Sungrow Power Supply Co Ltd,Pre-assembled Battery System (BS),SBR,2023-08-02,2026-08-02,0.0,13.44,22.4,22.4,Yes
+SBR224,SUNGROW,SUNGROW AUSTRALIA GROUP PTY LTD,Pre-assembled Battery System (BS),,2021-04-09,2024-04-09,0.0,13.44,22.4,22.4,Yes
+SBR192,SUNGROW,Sungrow Power Supply Co Ltd,Pre-assembled Battery System (BS),SBR,2023-08-02,2026-08-02,0.0,11.52,19.2,19.2,Yes
+SBR192,SUNGROW,SUNGROW AUSTRALIA GROUP PTY LTD,Pre-assembled Battery System (BS),,2021-04-09,2024-04-09,0.0,11.52,19.2,19.2,Yes
+SBR160,SUNGROW,Sungrow Power Supply Co Ltd,Pre-assembled Battery System (BS),SBR,2023-08-02,2026-08-02,0.0,9.6,16.0,16.0,Yes
+SBR160,SUNGROW,SUNGROW AUSTRALIA GROUP PTY LTD,Pre-assembled Battery System (BS),,2021-04-09,2024-04-09,0.0,9.6,16.0,16.0,Yes
+SBR128,SUNGROW,Sungrow Power Supply Co Ltd,Pre-assembled Battery System (BS),SBR,2023-08-02,2026-08-02,0.0,7.68,12.8,12.8,Yes
+SBR128,SUNGROW,SUNGROW AUSTRALIA GROUP PTY LTD,Pre-assembled Battery System (BS),,2021-04-09,2024-04-09,0.0,7.68,12.8,12.8,Yes
+SBR096,SUNGROW,Sungrow Power Supply Co Ltd,Pre-assembled Battery System (BS),SBR,2023-08-02,2026-08-02,0.0,5.76,9.6,9.6,No
+SBR096,SUNGROW,SUNGROW AUSTRALIA GROUP PTY LTD,Pre-assembled Battery System (BS),,2021-04-09,2024-04-09,0.0,5.76,9.6,9.6,Yes
+SBR064,SUNGROW,Sungrow Power Supply Co Ltd,Pre-assembled Battery System (BS),SBR,2023-08-02,2026-08-02,0.0,3.84,6.4,6.4,Yes
+SSLB1,SUNSYNK,Global Tech China Limited,Pre-assembled Battery System (BS),Power Lite,2021-04-01,2024-04-01,0.0,5.0,5.12,5.12,No
+Firefly-7.2K,Tecloman,Chengdu Tecloman Energy Storage Technology Co Ltd,Pre-assembled Battery System (BS),Firefly,2021-05-17,2024-05-17,0.0,3.6,7.2,6.48,Yes
+Firefly-3.6K,Tecloman,Chengdu Tecloman Energy Storage Technology Co Ltd,Pre-assembled Battery System (BS),Firefly,2021-05-17,2024-05-17,0.0,1.8,3.6,3.24,Yes
+Firefly-25.2K,Tecloman,Chengdu Tecloman Energy Storage Technology Co Ltd,Pre-assembled Battery System (BS),Firefly,2021-05-17,2024-05-17,0.0,3.6,25.2,22.68,Yes
+Firefly-21.6K,Tecloman,Chengdu Tecloman Energy Storage Technology Co Ltd,Pre-assembled Battery System (BS),Firefly,2021-05-17,2024-05-17,0.0,3.6,21.6,19.44,Yes
+Firefly-18.0K,Tecloman,Chengdu Tecloman Energy Storage Technology Co Ltd,Pre-assembled Battery System (BS),Firefly,2021-05-17,2024-05-17,0.0,3.6,18.0,16.2,Yes
+Firefly-14.4K,Tecloman,Chengdu Tecloman Energy Storage Technology Co Ltd,Pre-assembled Battery System (BS),Firefly,2021-05-17,2024-05-17,0.0,3.6,14.4,12.96,Yes
+Firefly-10.8K,Tecloman,Chengdu Tecloman Energy Storage Technology Co Ltd,Pre-assembled Battery System (BS),Firefly,2021-05-17,2024-05-17,0.0,3.6,10.8,9.72,Yes
+AC Powerwall (AS4777-2 2020),Tesla,Tesla Inc,Pre-assembled Integrated Battery Energy Storage System (BESS),Tesla Powerwall,2022-08-23,2025-08-23,5.0,0.0,14.0,13.5,Yes
+TS HV 70/14-10,TESVOLT,TESVOLT GmbH,Pre-assembled Battery System (BS),TESVOLT,2022-03-03,2025-03-03,0.0,67.0,67.0,67.0,No
+PLPA-L1-5K1,UZ ENERGY,Shenzhen UZ Energy Limited,Pre-assembled Battery System (BS),Power Lite Plus,2023-07-07,2026-07-07,0.0,3.07,5.12,5.12,Yes
+PLPA-L1-10K2,UZ ENERGY,Shenzhen UZ Energy Limited,Pre-assembled Battery System (BS),Power Lite Plus,2023-07-07,2026-07-07,0.0,6.14,10.24,10.24,Yes
+L051100-A,UZ ENERGY,Shenzhen UZ Energy Limited,Pre-assembled Battery System (BS),Power Lite,2020-12-18,2023-12-18,0.0,2.56,5.12,5.12,No
+VT5000ES48,ViTECH POWER,ViTech Power Systems PTY LTD,Pre-assembled Battery System (BS),,2021-05-28,2024-05-28,0.0,2.5,5.1,5.1,No
+5K3-XP-EU,WECO,WeCo SRL,Pre-assembled Battery System (BS),5K3-XP,2023-01-30,2026-01-30,0.0,5.0,5.12,4.8,No
+4K8T,WECO,WeCo SRL,Pre-assembled Battery System (BS),,2023-01-30,2026-01-30,0.0,4.8,4.8,4.3,No
+A48-40,Zenaji,Zenaji Australia Pty Ltd,Pre-assembled Battery System (BS),AEON,2021-04-12,2024-04-12,0.0,2.42,1.93,1.93,Yes
+ZR-PBX1,ZRGP,Zhongrui Green Energy Technology (Shenzhen)Co Ltd,Pre-assembled Battery System (BS),Power Base X1,2022-11-14,2025-11-14,0.0,5.12,5.12,4.97,No
+ZR-PBML-40S,ZRGP,Zhongrui Green Energy Technology (Shenzhen)Co Ltd,Pre-assembled Battery System (BS),Power Base LV-Mate_100,2022-12-09,2025-12-09,0.0,15.0,40.96,39.73,No
+ZR-PBML-35S,ZRGP,Zhongrui Green Energy Technology (Shenzhen)Co Ltd,Pre-assembled Battery System (BS),Power Base LV-Mate_100,2022-12-09,2025-12-09,0.0,15.0,35.84,34.76,No
+ZR-PBML-30S,ZRGP,Zhongrui Green Energy Technology (Shenzhen)Co Ltd,Pre-assembled Battery System (BS),Power Base LV-Mate_100,2022-12-09,2025-12-09,0.0,15.0,30.72,29.8,No
+ZR-PBML-25S,ZRGP,Zhongrui Green Energy Technology (Shenzhen)Co Ltd,Pre-assembled Battery System (BS),Power Base LV-Mate_100,2022-12-09,2025-12-09,0.0,15.0,25.6,24.83,No
+ZR-PBML-20S,ZRGP,Zhongrui Green Energy Technology (Shenzhen)Co Ltd,Pre-assembled Battery System (BS),Power Base LV-Mate_100,2022-12-09,2025-12-09,0.0,15.0,20.48,19.87,No
+ZR-PBML-15S,ZRGP,Zhongrui Green Energy Technology (Shenzhen)Co Ltd,Pre-assembled Battery System (BS),Power Base LV-Mate_100,2022-12-09,2025-12-09,0.0,13.0,15.36,14.9,No
+ZR-PBML-10S,ZRGP,Zhongrui Green Energy Technology (Shenzhen)Co Ltd,Pre-assembled Battery System (BS),Power Base LV-Mate_100,2022-12-09,2025-12-09,0.0,9.0,10.24,9.93,No
